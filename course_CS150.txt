@@ -1,0 +1,59 @@
+GLOBAL TECH UNIVERSITY — COURSE SYLLABUS
+CS150: COMPUTER ORGANIZATION AND ARCHITECTURE
+Credits: 3 | Lecture: 3 hours/week
+Department: Computer Science and Engineering
+Prerequisites: CS101 (minimum grade C)
+
+COURSE DESCRIPTION
+
+CS150: Computer Organization and Architecture provides CS students with an understanding of how computers actually work at the hardware level — from transistors and logic gates through digital circuits, processor microarchitecture, memory hierarchies, and I/O systems. This course bridges the gap between the software world in which students operate in CS101 and CS102 and the physical computing machinery that executes their programs. Understanding the hardware that runs software is not merely intellectually satisfying — it is practically essential for writing efficient code, understanding performance bottlenecks, and working in domains like systems programming, embedded development, and operating systems.
+
+The course begins with number systems and digital logic, moves through the design of combinational and sequential circuits, introduces the concept of instruction set architectures (ISAs) and assembly language, and culminates in a comprehensive treatment of processor design (the datapath and control unit), memory hierarchy (caches, virtual memory), and parallel processing fundamentals.
+
+
+LEARNING OBJECTIVES
+
+Convert numbers between binary, octal, hexadecimal, and decimal representations, and perform arithmetic in binary (including two's complement signed arithmetic).
+Implement Boolean functions using logic gates and simplify them using Karnaugh maps and Boolean algebra.
+Design and analyze combinational circuits (adders, multiplexers, decoders, comparators).
+Design and analyze sequential circuits (flip-flops, registers, finite state machines, counters).
+Read and write programs in a RISC assembly language (MIPS or RISC-V).
+Explain the stored-program concept and the fetch-decode-execute cycle.
+Describe the components of a CPU datapath and control unit and trace instruction execution through them.
+Explain and analyze pipelining, including pipeline hazards (structural, data, control) and their mitigations.
+Describe the memory hierarchy and explain the performance implications of cache hit and miss rates.
+Explain virtual memory, page tables, and the role of the TLB.
+Describe I/O mechanisms (polling, interrupts, DMA) and their trade-offs.
+Explain the fundamentals of parallel and multicore architectures.
+Apply knowledge of computer architecture to reason about program performance and optimization opportunities.
+Use simulation tools to design and test digital circuits.
+Connect hardware architectural decisions to their implications for the software that runs on the hardware.
+
+WEEKLY COURSE BREAKDOWN
+
+Week 1: Introduction — The Abstraction Hierarchy of Computing
+Week 2: Number Systems and Binary Arithmetic
+Week 3: Boolean Algebra and Logic Gates
+Week 4: Combinational Circuit Design
+Week 5: Sequential Circuits — Flip-Flops and Finite State Machines
+Week 6: Instruction Set Architecture and Assembly Language I
+Week 7: Assembly Language II — Procedures, the Stack, and Memory Addressing
+Week 8: Midterm Examination; The Stored-Program Model
+Week 9: CPU Datapath Design
+Week 10: Control Unit Design
+Week 11: Pipelining — Principles and Hazards
+Week 12: Memory Hierarchy — Caches
+Week 13: Virtual Memory
+Week 14: I/O Systems and Interrupts
+Week 15: Parallel and Multicore Architectures; Final Examination Review
+
+ACADEMIC CONTEXT
+
+CS150 occupies the unique position of grounding the entire CS curriculum in physical reality. Every program a student writes in CS101, CS102, or CS201 is ultimately translated — through layers of compilers, linkers, operating systems, and hardware — into electronic signals moving through silicon. CS150 makes these layers visible and comprehensible. This is not merely a matter of intellectual completeness; it has direct practical consequences for the quality of software students write.
+A student who understands cache memory hierarchies will write loops in cache-friendly orders, dramatically improving performance on large datasets. A student who understands pipeline hazards will understand why certain compiler optimizations (loop unrolling, instruction reordering) improve performance. A student who understands the two's complement representation of negative numbers will never again be confused by integer overflow bugs, which have caused some of the most costly software failures in computing history. The practical payoff of CS150 is distributed across every subsequent course in the curriculum, making it one of the highest-leverage courses a CS student can take.
+CS150 is also the prerequisite for CS210 (Operating Systems), and this prerequisite relationship is among the tightest in the curriculum. An operating system manages hardware resources — processor time, memory, I/O devices — on behalf of user programs. A student who does not understand how a CPU executes instructions, how virtual memory maps to physical memory, and how I/O interrupts work cannot understand what an operating system is doing at a fundamental level. They can learn to use operating system APIs, but they cannot reason about why those APIs are designed as they are or what the performance implications of different designs might be.
+The assembly language component of CS150 is perhaps the most daunting for students coming from Python and Java, and it is intentionally so. Writing in assembly — directly specifying which registers to load, which memory addresses to access, which instructions to execute — forces students to confront the machine as it truly is: not an interpreter of human-readable instructions, but a deterministic electronic device that executes a precisely specified sequence of primitive operations. This confrontation is bracing and valuable. Students who survive the assembly programming assignments of CS150 almost universally report that their mental model of what a computer is has fundamentally changed, and that this change has made them better programmers at every level of abstraction above the hardware.
+
+
+
+

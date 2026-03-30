@@ -1,0 +1,61 @@
+GLOBAL TECH UNIVERSITY — COURSE SYLLABUS
+CS210: OPERATING SYSTEMS
+Credits: 3 | Lecture: 3 hours/week
+Department: Computer Science and Engineering
+Prerequisites: CS150 (minimum grade C) AND CS201 (minimum grade C)
+
+COURSE DESCRIPTION
+
+CS210: Operating Systems is a foundational upper-division course that examines the design, implementation, and behavior of operating systems — the software layer that manages hardware resources and provides the execution environment for all other software. An operating system is among the most complex and consequential pieces of software ever built, and understanding its design is essential for anyone who wishes to write efficient, robust, system-level software, build distributed systems, or understand the security and performance implications of the software stack.
+
+The course covers the core concepts of modern operating systems: process and thread management, CPU scheduling algorithms, inter-process communication, synchronization (mutual exclusion, semaphores, monitors, deadlock), memory management (segmentation, paging, virtual memory), file system design, I/O systems, and an introduction to distributed systems and virtualization. Students will complete programming projects in C, gaining hands-on experience with system calls, process management, and the implementation of OS-level algorithms.
+
+The prerequisite of CS150 (Computer Organization) ensures that students understand the hardware mechanisms — interrupts, memory addressing, the distinction between user mode and kernel mode — that operating systems rely upon. The prerequisite of CS201 (Algorithms) ensures that students can analyze the performance of scheduling and memory management algorithms with the rigor these analyses require.
+
+LEARNING OBJECTIVES
+
+
+Describe the role and structure of an operating system, including the kernel, user space, and system call interface.
+Explain the process abstraction, the process lifecycle, and the data structures an OS uses to manage processes.
+Implement and analyze CPU scheduling algorithms: FCFS, SJF, Round Robin, Priority Scheduling, and Multilevel Queue scheduling.
+Distinguish between processes and threads and explain the advantages and challenges of multithreaded programming.
+Identify and solve critical section problems using mutual exclusion mechanisms: spinlocks, semaphores, and monitors.
+Analyze and resolve deadlock using prevention, avoidance (Banker's algorithm), detection, and recovery strategies.
+Implement inter-process communication mechanisms: shared memory and message passing.
+Explain memory segmentation and paging, including the structure of page tables and the role of the TLB.
+Describe and analyze virtual memory management, including demand paging, page replacement algorithms (FIFO, LRU, Optimal), and thrashing.
+Describe the structure of a file system, including file organization, directory structures, and allocation methods.
+Explain I/O subsystem design, including device drivers, interrupt handling, and disk scheduling algorithms.
+Describe the concepts of virtualization and hypervisors and explain their role in cloud computing.
+Write C programs that use POSIX system calls for process creation, file management, and synchronization.
+Reason about the security implications of OS design decisions (privilege levels, memory protection, access control).
+Read and understand excerpts from real OS source code (Linux kernel).
+
+WEEKLY COURSE BREAKDOWN
+
+Week 1: Introduction to Operating Systems — History and Structure
+Week 2: Processes — Abstraction, Lifecycle, and the Process Control Block
+Week 3: CPU Scheduling Algorithms — Analysis and Trade-offs
+Week 4: Threads and Concurrency — Models and Implementations
+Week 5: Synchronization I — Critical Sections, Spinlocks, and Semaphores
+Week 6: Synchronization II — Monitors, Condition Variables, and Classic Problems (Dining Philosophers, Readers-Writers)
+Week 7: Deadlock — Conditions, Prevention, Avoidance, Detection
+Week 8: Midterm Examination; Memory Management — Contiguous Allocation and Segmentation
+Week 9: Paging — Page Tables, TLB, and Multi-Level Page Tables
+Week 10: Virtual Memory — Demand Paging and Page Replacement Algorithms
+Week 11: File Systems — Structures, Directories, and Allocation Methods
+Week 12: File System Implementation — Inodes, Journaling, and Case Studies (ext4, NTFS)
+Week 13: I/O Systems — Device Drivers, Disk Scheduling, and RAID
+Week 14: Virtualization, Containers, and Cloud Computing
+Week 15: OS Security and Course Synthesis; Final Examination
+
+
+ACADEMIC CONTEXT
+
+Operating systems represent one of the greatest engineering achievements of the twentieth century. The development of UNIX at Bell Labs in the late 1960s and early 1970s, and its subsequent influence on every major operating system from Linux and macOS to Android and iOS, demonstrates that the core abstractions pioneered by those early OS designers — the process, the file, the pipe, the file descriptor — were so well-conceived that they remain the foundation of modern computing more than fifty years later. CS210 gives students direct access to this intellectual heritage, helping them understand not only how operating systems work today but why they were designed as they were and what problems those designs solved.
+
+The C programming component of CS210 is among the most challenging aspects of the course for students who have programmed primarily in Python and Java. C is a low-level language that provides no automatic memory management, no runtime bounds checking on arrays, and no exception handling — it exposes the programmer directly to the hardware. Writing a correct, thread-safe synchronization library in C, or implementing a virtual memory page table in C, requires a level of precision and attention to detail that Python and Java programming rarely demands. This challenge is valuable precisely because it strips away the comfortable abstractions of higher-level languages and forces students to think about memory as a finite, addressable resource that must be carefully managed.
+
+The synchronization and deadlock material of Weeks 5–7 is among the most conceptually challenging in the course and among the most practically important. Race conditions — the bugs that arise when concurrent threads access shared data without proper synchronization — are notoriously difficult to reproduce, diagnose, and fix, because they depend on precise timing of thread execution that is non-deterministic. The Therac-25 radiation therapy machine, whose software race conditions led directly to patient deaths in the 1980s, is the canonical cautionary tale of concurrent programming without proper synchronization. Students who deeply understand mutual exclusion, the happens-before relationship, and the conditions for deadlock are far better equipped to write safe concurrent software than students who have only heard these concepts described at a high level.
+
+

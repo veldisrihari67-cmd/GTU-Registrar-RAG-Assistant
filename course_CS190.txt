@@ -1,0 +1,99 @@
+GLOBAL TECH UNIVERSITY — COURSE SYLLABUS
+CS190: OBJECT-ORIENTED PROGRAMMING
+Credits: 3 | Lecture: 3 hours/week
+Department: Computer Science and Engineering
+Prerequisites: CS102 (minimum grade C)
+
+
+COURSE DESCRIPTION
+
+CS190: Object-Oriented Programming provides a thorough, systematic treatment of the object-oriented programming paradigm in Java and C++, building on the gentle OOP introduction of CS101 and the Java exposure of CS102 to develop the full depth and sophistication of object-oriented design and programming. The course covers encapsulation, inheritance, polymorphism, and abstraction as both language mechanisms and design principles, and introduces students to the practice of thinking about software in terms of objects, their responsibilities, and their interactions.
+
+Beyond language mechanics, CS190 focuses on object-oriented design quality: what makes one OO design better than another, how to recognize and refactor poor designs (anti-patterns), and how to apply the SOLID principles and classic design patterns to produce code that is correct, maintainable, and extensible. Students will also learn C++ alongside Java, gaining exposure to a language with manual memory management and multiple inheritance, which deepens their understanding of how OO mechanisms are implemented and what the costs and benefits of different design choices are.
+
+The course culminates in a substantial design project in which students design a complex object-oriented system from scratch, produce UML class and sequence diagrams documenting their design, implement the system, and write a design rationale document explaining their design choices. This project synthesizes the design principles, language skills, and engineering discipline of the entire course.
+
+LEARNING OBJECTIVES
+
+Upon successful completion of CS190, students will be able to:
+
+Define and apply the four pillars of OOP — encapsulation, inheritance, polymorphism, and abstraction — as both language features and design principles.
+Design class hierarchies using inheritance and explain when inheritance is and is not appropriate (prefer composition over inheritance principle).
+Define and implement Java interfaces and abstract classes, and explain the design contexts in which each is preferred.
+Apply dynamic dispatch and understand how the JVM resolves virtual method calls at runtime.
+Implement generic classes and methods in Java (generics) and explain type erasure.
+Apply the five SOLID principles to evaluate and improve object-oriented designs.
+Identify and apply the following design patterns: Singleton, Factory Method, Abstract Factory, Builder, Prototype (creational); Adapter, Bridge, Composite, Decorator, Facade, Proxy (structural); Command, Iterator, Observer, State, Strategy, Template Method, Visitor (behavioral).
+Recognize and refactor common OO anti-patterns: God Class, Shotgun Surgery, Feature Envy, Data Clumps, Primitive Obsession.
+Write C++ programs demonstrating classes, constructors/destructors, operator overloading, the rule of three/five, and polymorphism via virtual functions.
+Explain and manage memory in C++ using RAII (Resource Acquisition Is Initialization) and smart pointers (unique_ptr, shared_ptr).
+Explain multiple inheritance in C++ and the diamond problem, and describe virtual base classes as a solution.
+Produce UML class diagrams and sequence diagrams that accurately represent an OO design.
+Apply refactoring techniques (extract method, extract class, move method, replace conditional with polymorphism) to improve existing code.
+Write comprehensive unit tests for object-oriented code, including tests of polymorphic behavior and mock objects.
+Critically evaluate the trade-offs of the OO paradigm compared to functional and procedural approaches.
+
+WEEKLY COURSE BREAKDOWN
+
+Week 1: Review of Java OOP Basics and Course Orientation
+Topics: Review of CS102 Java (classes, objects, inheritance basics), course project introduction, design quality overview, the cost of poor design in long-lived systems.
+Assignments: OOP warm-up exercises; Code quality critique assignment.
+Week 2: Encapsulation and Information Hiding
+Topics: Access modifiers in depth, the Law of Demeter, immutable objects, defensive copying, designing good public APIs, JavaBeans conventions.
+Assignments: Problem set 1 — encapsulation redesign exercise.
+Week 3: Inheritance — Mechanisms and Principles
+Topics: Method overriding vs. hiding, covariant return types, the Liskov Substitution Principle (LSP) in depth, when inheritance is appropriate, composition vs. inheritance, fragile base class problem.
+Assignments: Problem set 2 — LSP analysis exercises.
+Week 4: Interfaces, Abstract Classes, and Polymorphism
+Topics: Interface default methods (Java 8+), functional interfaces and lambdas (preview), abstract classes vs. interfaces, dynamic dispatch mechanics, the open/closed principle in practice.
+Assignments: Problem set 3 — interface and abstract class design.
+Week 5: Java Generics and Collections
+Topics: Generic classes and methods, bounded type parameters, wildcards (? extends T, ? super T), type erasure and its implications, the Java Collections Framework in depth, custom collection implementations.
+Assignments: Problem set 4 — generics programming; Quiz 1.
+Week 6: SOLID Principles in Depth
+Topics: Single Responsibility, Open/Closed, Liskov Substitution (revisited), Interface Segregation, Dependency Inversion — each illustrated with before/after refactoring examples.
+Assignments: SOLID violation identification and refactoring exercise.
+Week 7: Creational Design Patterns
+Topics: Singleton (and its drawbacks), Factory Method, Abstract Factory, Builder pattern, Prototype; when to use each, implementation in Java.
+Assignments: Problem set 5 — creational pattern implementation.
+Week 8: Midterm Examination; Structural Design Patterns
+Topics: Midterm Exam; Adapter, Bridge, Composite, Decorator, Facade, Proxy patterns — motivation, structure, and Java implementation.
+Assignments: Midterm Exam; Problem set 6 — structural pattern exercises.
+Week 9: Behavioral Design Patterns I
+Topics: Command, Iterator, Observer, Mediator patterns; UML representations; Java implementation; real-world examples (event systems, GUI frameworks).
+Assignments: Problem set 7 — behavioral pattern implementation.
+Week 10: Behavioral Design Patterns II
+Topics: State, Strategy, Template Method, Visitor, Chain of Responsibility patterns; comparison of patterns that solve similar problems; anti-pattern recognition.
+Assignments: Problem set 8 — pattern selection challenge; Design Project milestone 1 (UML class diagram).
+Week 11: Introduction to C++ — Classes and Memory Management
+Topics: C++ class syntax, constructors and destructors, the rule of three/five, copy semantics vs. move semantics, RAII, unique_ptr and shared_ptr, memory safety with smart pointers.
+Assignments: C++ programming lab 1 — class with RAII resource management.
+Week 12: C++ Inheritance and Polymorphism
+Topics: Virtual functions and vtables, pure virtual functions and abstract classes, multiple inheritance and the diamond problem, virtual base classes, override and final keywords.
+Assignments: C++ programming lab 2 — polymorphic class hierarchy.
+Week 13: Refactoring — Identifying and Eliminating Anti-Patterns
+Topics: God Class, Shotgun Surgery, Feature Envy, Data Clumps, Primitive Obsession, Divergent Change; refactoring techniques (extract method, move method, replace type code with subclasses); using IDE refactoring tools.
+Assignments: Refactoring challenge lab (refactor a provided poorly designed codebase).
+Week 14: Testing OO Code — Mocking and Test Isolation
+Topics: Challenges of testing OO code (dependency injection, test isolation), mock objects (Mockito framework), testing polymorphic behavior, test doubles (mock, stub, spy, fake, dummy).
+Assignments: Testing lab — add mock-based tests to team project; Design Project milestone 2 (implementation + unit tests).
+Week 15: OOP Trade-offs, Alternatives, and Final Project Presentations
+Topics: Critique of OOP (Alan Kay's original vision vs. current practice, problems with inheritance, OOP vs. functional comparison), the future of OO design, final project presentations.
+Assignments: Final Design Project submission (UML diagrams + implementation + design rationale document); Presentations.
+
+ACADEMIC CONTEXT
+
+CS190 occupies a distinctive position in the GTU curriculum as the course that develops the full depth of object-oriented design — an area that is simultaneously one of the most practically important in software engineering and one of the most intellectually nuanced. The object-oriented paradigm, dominant in industry since the 1990s, is not merely a collection of language features (classes, inheritance, polymorphism) but a way of thinking about software structure that, when applied well, produces systems that are modular, extensible, and comprehensible. When applied poorly — as it frequently is by programmers who know the syntax of OOP but not its design principles — it produces systems that are tangled, brittle, and difficult to change.
+The design patterns introduced in CS190, originally catalogued by the Gang of Four in 1994, represent accumulated wisdom about recurring design problems and their solutions. They are, in a sense, a vocabulary for OO design: a shared language that allows experienced developers to communicate design intentions clearly and concisely. A developer who says "use the Observer pattern here" conveys a precise design structure, a set of participants and their relationships, and a set of trade-offs, all in three words. Students who graduate from CS190 fluent in this vocabulary are prepared to participate in senior technical discussions from their first day on the job.
+The inclusion of C++ alongside Java in CS190 is a deliberate pedagogical choice. Java's memory management (garbage collection) and single-inheritance model hide certain aspects of OOP implementation that C++ exposes. When students implement a class hierarchy in C++ and must explicitly manage the memory of dynamically allocated objects, implement a copy constructor to avoid shallow copy bugs, and reason about virtual dispatch through vtables, they gain an understanding of OOP at the implementation level that Java alone cannot provide. This understanding is directly valuable for students who go on to work in systems programming, game development, high-performance computing, or embedded systems — domains where C++ remains dominant. It is also intellectually valuable for any CS student, because it reveals the machinery behind the abstractions that higher-level languages provide.
+
+
+
+
+
+
+
+
+
+
+

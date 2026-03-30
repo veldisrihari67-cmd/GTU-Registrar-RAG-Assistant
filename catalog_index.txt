@@ -1,0 +1,401 @@
+GLOBAL TECH UNIVERSITY
+MASTER COURSE CATALOG INDEX AND PREREQUISITE LOGIC REFERENCE
+OFFICE OF THE ACADEMIC REGISTRAR
+ACADEMIC YEAR 2025–2026
+
+SECTION 1: COMPLETE COURSE LISTING — ALL DEPARTMENTS
+
+This master index provides a comprehensive listing of all courses described in the GTU Academic Catalog for the 2025–2026 academic year, organized by department and course number. For each course, the prerequisite logic is stated precisely using AND/OR notation with minimum grade requirements where applicable. Students and advisors should use this index as the authoritative reference for prerequisite verification. The GTU Course Registration System (CRS) enforces all listed prerequisites automatically; discrepancies between this index and the CRS should be reported to the Office of the Academic Registrar.
+
+
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING — COURSE INDEX
+
+LOWER DIVISION COURSES (CS 100–199)
+CS101 — Introduction to Programming
+Credits: 3
+Prerequisite(s): NONE
+Co-requisite(s): CS101L (Programming Lab I)
+Satisfies: CS Major Lower Division Core; DS Major Computing Foundation
+Notes: This is the entry point for the CS and DS major sequences. No prior programming experience required. Students with extensive prior programming experience should consult with the CS department about placement into CS102.
+CS101L — Programming Lab I
+Credits: 1
+Prerequisite(s): NONE
+Co-requisite(s): CS101 (must be taken concurrently)
+Grading: Standard (A–F)
+Notes: Cannot be taken without concurrent CS101 enrollment unless CS101 equivalent transfer credit has been posted.
+CS102 — Data Structures
+Credits: 3
+Prerequisite(s): CS101 with minimum grade of C+
+Co-requisite(s): CS102L (Data Structures Lab)
+Satisfies: CS Major Lower Division Core; DS Major Computing Foundation
+PREREQUISITE LOGIC NOTE: The minimum grade of C+ (2.3) in CS101 is strictly enforced by the CRS. A grade of C (2.0) in CS101 is NOT sufficient — the threshold is C+. Transfer credit equivalents accepted for CS101 must also demonstrate a C+ equivalent grade.
+CS102L — Data Structures Lab
+Credits: 1
+Prerequisite(s): CS101L (or transfer equivalent)
+Co-requisite(s): CS102 (must be taken concurrently)
+Grading: Standard (A–F)
+CS150 — Computer Organization and Architecture
+Credits: 3
+Prerequisite(s): CS101 with minimum grade of C
+Satisfies: CS Major Lower Division Core
+Notes: Students in the DS major may take CS150 as an elective; it is not required for the DS degree.
+CS160 — Introduction to Software Engineering
+Credits: 3
+Prerequisite(s): CS102 with minimum grade of C
+Satisfies: CS Major Lower Division Core
+Notes: Includes a mandatory team project component. Students who withdraw after Week 5 may disrupt their team; withdrawal after this point requires written justification.
+CS170 — Web Technologies and Development
+Credits: 3
+Prerequisite(s): CS101 with minimum grade of C
+Satisfies: CS Major Lower Division Core
+Notes: Students are expected to set up a development environment (Node.js, PostgreSQL) on their personal machine or use the GTU CS Cloud Development Environment (CDE). Technical setup support is provided in Week 1 lab.
+CS180 — Discrete Structures for Computer Science
+Credits: 3
+Co-listed as MATH220: Discrete Mathematics
+Prerequisite(s): CS101 with minimum grade of C AND MATH110 with minimum grade of C
+Satisfies: CS Major Lower Division Core (CS180 listing); Mathematics and Statistics Requirement (MATH220 listing)
+PREREQUISITE LOGIC NOTE: Both prerequisites must be satisfied simultaneously. A student who has completed CS101 but not MATH110 must wait until both are complete. The AND here is strict.
+CS190 — Object-Oriented Programming
+Credits: 3
+Prerequisite(s): CS102 with minimum grade of C
+Satisfies: CS Major Lower Division Core
+UPPER DIVISION COURSES (CS 200–299)
+CS201 — Algorithms
+Credits: 3
+Prerequisite(s): CS102 with minimum grade of C AND MATH110 with minimum grade of C
+Satisfies: CS Major Upper Division Core; DS Major Computing Foundation
+PREREQUISITE LOGIC NOTE: Both CS102 AND MATH110 must be completed with a minimum grade of C before enrollment. A student who satisfies one but not the other may not enroll. This is the most consequential prerequisite gate in the CS curriculum. Students who completed MATH110 but earned below C must retake MATH110 before enrolling in CS201 regardless of their CS102 grade.
+CS210 — Operating Systems
+Credits: 3
+Prerequisite(s): CS150 with minimum grade of C AND CS201 with minimum grade of C
+Satisfies: CS Major Upper Division Core
+PREREQUISITE LOGIC NOTE: Both prerequisites must be satisfied. CS201 alone is not sufficient; the hardware knowledge from CS150 is essential for the OS course content.
+CS220 — Database Systems
+Credits: 3
+Prerequisite(s): CS201 with minimum grade of C
+Satisfies: CS Major Upper Division Core
+CS230 — Computer Networks
+Credits: 3
+Prerequisite(s): CS210 with minimum grade of C
+Satisfies: CS Major Upper Division Core
+Notes: The sequential chain CS150 → CS201 → CS210 → CS230 represents a critical prerequisite path. Students who are behind on this chain should work with their advisor to develop a recovery plan.
+CS250 — Programming Languages
+Credits: 3
+Prerequisite(s): CS201 with minimum grade of C
+Satisfies: CS Major Upper Division Core
+CS280 — Software Engineering II
+Credits: 3
+Prerequisite(s): CS160 with minimum grade of C AND CS201 with minimum grade of C
+Satisfies: CS Major Upper Division Core
+PREREQUISITE LOGIC NOTE: Both CS160 and CS201 are required. CS160 provides the software engineering process foundation; CS201 provides the algorithmic rigor. Neither alone is sufficient.
+CS290 — Theory of Computation
+Credits: 3
+Prerequisite(s): CS201 with minimum grade of C AND MATH220/CS180 with minimum grade of C
+Satisfies: CS Major Upper Division Core
+PREREQUISITE LOGIC NOTE: Both prerequisites are required. MATH220 and CS180 are co-listed; satisfaction of either satisfies this requirement.
+UPPER DIVISION COURSES (CS 300–499)
+CS301 — Artificial Intelligence
+Credits: 3
+Prerequisite(s): [CS201 with minimum grade of C] OR [CS102 with minimum grade of C AND STAT200 with minimum grade of C]
+Satisfies: CS Major Upper Division Core; DS Major Statistical and ML Core (as CS elective)
+PREREQUISITE LOGIC NOTE (CRITICAL): This is the most complex prerequisite in the CS catalog. Two distinct paths satisfy the prerequisite:
+PATH A: CS201 (grade C or higher). No other requirements for this path.
+PATH B: CS102 (grade C or higher) AND STAT200 (grade C or higher). Both courses in Path B must be satisfied; CS102 alone or STAT200 alone does not satisfy this path.
+A student may satisfy either PATH A or PATH B but must fully satisfy their chosen path. Partial satisfaction of either path does not permit enrollment.
+Example 1: Student has CS201 with grade B and STAT200 with grade B → PATH A is satisfied → May enroll.
+Example 2: Student has CS102 with grade A and STAT200 with grade B+ → PATH B is satisfied → May enroll.
+Example 3: Student has CS102 with grade A but has not taken STAT200 → Neither path satisfied → May NOT enroll.
+Example 4: Student has CS201 with grade D → PATH A not satisfied (grade below C); if also has CS102 and STAT200 both with C or higher → PATH B satisfied → May enroll.
+The CRS enforces this logic automatically, but students should verify their eligibility with an advisor before registration opens to allow time to resolve any discrepancies.
+CS305 — Machine Learning
+Credits: 3
+Prerequisite(s): CS301 with minimum grade of C AND STAT200 with minimum grade of C AND MATH230 with minimum grade of C
+Satisfies: CS Major Upper Division Core; DS Major Statistical and ML Core
+PREREQUISITE LOGIC NOTE: All three prerequisites must be satisfied simultaneously. This is a triple-AND requirement. STAT200 and MATH230 may have been taken prior to CS301; what matters is that all three are completed before CS305 enrollment.
+CS310 — Deep Learning
+Credits: 3
+Prerequisite(s): CS305 with minimum grade of C
+Satisfies: CS Major Elective (Track A — AI and Machine Learning)
+CS315 — Natural Language Processing
+Credits: 3
+Prerequisite(s): CS305 with minimum grade of C
+Satisfies: CS Major Elective (Track A — AI and Machine Learning)
+CS320 — Computer Vision
+Credits: 3
+Prerequisite(s): CS305 with minimum grade of C
+Satisfies: CS Major Elective (Track A — AI and Machine Learning)
+CS325 — Reinforcement Learning
+Credits: 3
+Prerequisite(s): CS305 with minimum grade of C
+Satisfies: CS Major Elective (Track A — AI and Machine Learning)
+CS330 — Cybersecurity Fundamentals
+Credits: 3
+Prerequisite(s): CS210 with minimum grade of C AND CS230 with minimum grade of C
+Satisfies: CS Major Elective (Track B — Systems and Security)
+CS335 — Network Security
+Credits: 3
+Prerequisite(s): CS330 with minimum grade of C
+Satisfies: CS Major Elective (Track B — Systems and Security)
+CS340 — Cloud Computing
+Credits: 3
+Prerequisite(s): CS210 with minimum grade of C AND CS280 with minimum grade of C
+Satisfies: CS Major Elective (Track B — Systems and Security)
+CS345 — Embedded Systems
+Credits: 3
+Prerequisite(s): CS150 with minimum grade of C AND CS210 with minimum grade of C
+Satisfies: CS Major Elective (Track B — Systems and Security)
+CS350 — Big Data Systems
+Credits: 3
+Prerequisite(s): CS220 with minimum grade of C AND CS280 with minimum grade of C
+Satisfies: CS Major Elective (Track C — Data and Software Engineering)
+CS355 — Software Architecture
+Credits: 3
+Prerequisite(s): CS280 with minimum grade of C
+Satisfies: CS Major Elective (Track C — Data and Software Engineering)
+CS360 — Human-Computer Interaction
+Credits: 3
+Prerequisite(s): CS160 with minimum grade of C
+Satisfies: CS Major Elective (Track C — Data and Software Engineering)
+CS365 — Mobile Application Development
+Credits: 3
+Prerequisite(s): CS170 with minimum grade of C AND CS190 with minimum grade of C
+Satisfies: CS Major Elective (Track C — Data and Software Engineering)
+CS401 — Senior Capstone Project
+Credits: 6
+Prerequisite(s): CS301 with minimum grade of C AND CS305 with minimum grade of C AND 90+ credit hours completed; Minimum Cumulative GPA: 2.50
+Co-requisite(s): CS401S (Capstone Seminar, 0 credits — mandatory)
+Satisfies: CS Major Upper Division Core (required for graduation)
+PREREQUISITE LOGIC NOTE (CRITICAL): This is a triple-AND requirement with an additional credit-hour threshold and GPA requirement.
+CONDITION 1: CS301 completed with grade of C or higher.
+CONDITION 2: CS305 completed with grade of C or higher.
+CONDITION 3: 90 or more credit hours completed and posted to the GTU transcript at the time of registration.
+CONDITION 4: Cumulative GPA of 2.50 or higher at the time of registration.
+ALL FOUR CONDITIONS must be met simultaneously. The CRS checks conditions 1–3 automatically. The GPA condition (Condition 4) is checked manually by the Registrar's Office and may result in a hold being placed on the enrollment if GPA falls below 2.50 between the time of registration and the start of the semester.
+Students who are registered for CS401 and whose GPA drops below 2.50 between registration and the start of the semester will be administratively withdrawn from CS401 and must petition for reinstatement.
+CS401S — Senior Capstone Seminar
+Credits: 0
+Prerequisite(s): None (enrollment is restricted to students concurrently enrolled in CS401)
+Co-requisite(s): CS401 (mandatory concurrent enrollment)
+Grading: Pass/No Pass
+Notes: CS401S attendance is mandatory. More than two unexcused absences in a single semester results in an NP (No Pass) grade, which triggers administrative review of the student's CS401 enrollment.
+CS495 — Honors Thesis
+Credits: 6 (3 credits per semester, taken across two semesters)
+Prerequisite(s): Cumulative GPA of 3.50 or higher; approval of the CS Honors Thesis Committee; confirmed faculty thesis advisor
+Notes: Taken in lieu of or in addition to CS401. Does not count toward the six-credit CS401 requirement unless the Honors Thesis Committee grants an equivalency determination.
+
+MATHEMATICS AND STATISTICS — COURSE INDEX
+
+MATH110 — Calculus I
+Credits: 4
+Prerequisite(s): GTU Mathematics Placement Assessment score at or above Threshold A, OR MATH099 with minimum grade of B
+Co-requisite(s): MATH110R (Recitation, 1 credit) — required for students scoring below Threshold B on placement assessment
+Satisfies: CS Major Mathematics Requirement; DS Major Mathematics Requirement; GTU Core Quantitative Reasoning
+MATH110R — Calculus I Recitation
+Credits: 1
+Co-requisite(s): MATH110
+Grading: Pass/No Pass
+Notes: Required for students whose placement score falls below Threshold B. Students who score at or above Threshold B may enroll voluntarily; enrollment is capped and priority given to required students.
+MATH111 — Calculus II
+Credits: 4
+Prerequisite(s): MATH110 with minimum grade of C
+Satisfies: CS Major Mathematics Requirement; DS Major Mathematics Requirement
+MATH220 — Discrete Mathematics
+Credits: 3
+Co-listed as CS180
+Prerequisite(s): MATH110 with minimum grade of C
+Satisfies: CS Major Mathematics Requirement; DS Major Mathematics Requirement
+MATH230 — Linear Algebra
+Credits: 3
+Prerequisite(s): MATH110 with minimum grade of C
+Satisfies: CS Major Mathematics Requirement; DS Major Mathematics Requirement; Required for CS305
+STAT200 — Probability and Statistics for Computer Science
+Credits: 4
+Prerequisite(s): MATH110 with minimum grade of C
+Satisfies: CS Major Mathematics Requirement; DS Major Mathematics Requirement; Required for CS301 (Path B), CS305
+STAT310 — Statistical Inference
+Credits: 3
+Prerequisite(s): STAT200 with minimum grade of C
+Satisfies: DS Major Mathematics Requirement
+STAT320 — Applied Regression Analysis
+Credits: 3
+Prerequisite(s): STAT310 with minimum grade of C
+Satisfies: DS Major Mathematics Requirement
+
+HUMANITIES, ETHICS, AND WRITING — COURSE INDEX
+
+ENG101 — Academic Writing I
+Credits: 3
+Prerequisite(s): Placement via GTU Writing Placement Assessment, or completion of developmental writing course
+Satisfies: GTU Core Written Communication (first course)
+ENG102 — Academic Writing II
+Credits: 3
+Prerequisite(s): ENG101 with minimum grade of C
+Satisfies: GTU Core Written Communication (second course)
+HUMS201 — Technology and Society
+Credits: 3
+Prerequisite(s): None
+Satisfies: GTU Core Humanities; Required for CS and DS majors
+PHIL210 — Ethics in Technology
+Credits: 3
+Prerequisite(s): None
+Satisfies: GTU Core Ethics; Required for CS and DS majors
+PHIL315 — Philosophy of Mind and Artificial Intelligence
+Credits: 3
+Prerequisite(s): None (PHIL210 recommended)
+Satisfies: GTU Core Humanities (elective); CS Major Free Elective
+HIST220 — History of Computing and Digital Culture
+Credits: 3
+Prerequisite(s): None
+Satisfies: GTU Core Humanities (elective); CS Major Free Elective
+WRIT310 — Technical Writing for Computer Scientists
+Credits: 3
+Prerequisite(s): ENG102 with minimum grade of C
+Satisfies: CS Major Free Elective; strongly recommended for all CS and DS students
+
+SECTION 2: PREREQUISITE DEPENDENCY CHAINS — VISUAL REFERENCE
+
+The following chains represent the major prerequisite dependency paths in the CS major. Understanding these chains is essential for academic planning, particularly for students who enter the program with transfer credit, take a leave of absence, or fail a course at a critical junction.
+CHAIN 1 — THE CORE CS SEQUENCE (Critical Path to Capstone)
+MATH110 ──────────────────────────────┐
+│
+CS101 → [C+] → CS102 → [C] → CS201 → [C+C] → CS301 → [C] ─┐
+↕              │
+STAT200 [C]             CS305 → [C]
+MATH230 [C]               │
+│
+CS305 [C] + CS301 [C] + 90cr + 2.50 GPA
+↓
+CS401 (CAPSTONE)
+Legend: [C] = minimum grade C required; [C+] = minimum grade C+ required; [C+C] = CS102 requires C+, CS201 requires C from CS102
+CHAIN 2 — THE SYSTEMS PATH (CS150 → CS210 → CS230 → CS330)
+CS101 → [C] → CS150 → [C] ─┐
+├──→ CS210 → [C] → CS230 → [C] → CS330
+CS201 → [C] ────────────────┘
+Note: Both CS150 and CS201 must be completed before CS210. The systems chain requires the most careful sequencing of any track, as each course is directly prerequisite to the next.
+CHAIN 3 — THE MATHEMATICS CHAIN (Supporting Multiple CS Courses)
+MATH110 → MATH111 (for DS)
+MATH110 → MATH220/CS180 (required for CS290)
+MATH110 → MATH230 (required for CS305)
+MATH110 → STAT200 (required for CS301 Path B, CS305)
+STAT200 → STAT310 → STAT320 (DS major statistics track)
+CHAIN 4 — THE AI/ML TRACK (Upper Division Electives)
+CS301 + STAT200 + MATH230 → CS305 → CS310 (Deep Learning)
+→ CS315 (NLP)
+→ CS320 (Computer Vision)
+→ CS325 (Reinforcement Learning)
+CHAIN 5 — THE SOFTWARE ENGINEERING TRACK
+CS102 → CS160 → CS280 → CS355 (Software Architecture)
+→ CS340 (Cloud Computing, with CS210)
+→ CS360 (HCI)
+→ CS365 (Mobile, with CS170 + CS190)
+
+
+
+SECTION 3: PREREQUISITE LOGIC WORKED EXAMPLES
+
+The following worked examples are provided to help students and advisors reason through the more complex prerequisite logic in the catalog. These examples cover all major AND/OR combinations and edge cases.
+EXAMPLE SET 1 — CS102 PREREQUISITE (CS101 with C+)
+Example 1A: Student earned B in CS101. → B (3.0) ≥ C+ (2.3). CS102 prerequisite SATISFIED.
+Example 1B: Student earned C in CS101. → C (2.0) < C+ (2.3). CS102 prerequisite NOT SATISFIED. Student must retake CS101 to earn C+ or higher.
+Example 1C: Student earned C+ in CS101 transfer equivalent. → Transfer equivalent accepted at C+ or higher. CS102 prerequisite SATISFIED, provided transfer credit has been officially evaluated and posted by the Office of Transfer Affairs before registration opens.
+Example 1D: Student is currently enrolled in CS101 (in progress). → In-progress courses do not satisfy completed prerequisites. Student may not enroll in CS102 until CS101 final grade is posted. Exception: a student may register for CS102 during the registration period before CS101 grades are posted, with the understanding that the CRS will automatically drop them from CS102 if the final CS101 grade is below C+.
+EXAMPLE SET 2 — CS201 PREREQUISITE (CS102 AND MATH110, both with C)
+Example 2A: Student earned B+ in CS102 and B in MATH110. → Both conditions met. CS201 prerequisite SATISFIED.
+Example 2B: Student earned A in CS102 but has not taken MATH110. → AND condition: MATH110 condition not met. CS201 prerequisite NOT SATISFIED.
+Example 2C: Student earned C in CS102 and C in MATH110. → Both conditions met (C = 2.0 ≥ 2.0). CS201 prerequisite SATISFIED.
+Example 2D: Student earned D+ in MATH110 and A in CS102. → MATH110 grade (D+, 1.3) is below required minimum (C, 2.0). CS201 prerequisite NOT SATISFIED. Student must retake MATH110.
+Example 2E: Student earned C- in CS102 and B in MATH110. → CS102 grade (C-, 1.7) is below required minimum (C, 2.0). CS201 prerequisite NOT SATISFIED. Student must retake CS102.
+EXAMPLE SET 3 — CS301 PREREQUISITE (CS201 OR [CS102 AND STAT200])
+Example 3A: Student has CS201 with B. → PATH A satisfied. CS301 prerequisite SATISFIED.
+Example 3B: Student has CS102 with A- and STAT200 with B+. Has NOT taken CS201. → PATH B satisfied (both CS102 ≥ C and STAT200 ≥ C). CS301 prerequisite SATISFIED.
+Example 3C: Student has CS201 with D. Has CS102 with A and STAT200 with A. → PATH A NOT satisfied (CS201 grade below C). PATH B satisfied (CS102 ≥ C and STAT200 ≥ C). CS301 prerequisite SATISFIED via PATH B.
+Example 3D: Student has CS102 with B but has NOT taken STAT200. Has NOT taken CS201. → PATH A NOT satisfied (CS201 not taken). PATH B NOT satisfied (STAT200 not taken). CS301 prerequisite NOT SATISFIED.
+Example 3E: Student has CS201 with C and STAT200 with A. → PATH A satisfied (CS201 ≥ C). PATH B also technically satisfied, but only one path needs to be satisfied. CS301 prerequisite SATISFIED. Note: This student would benefit from STAT200 for CS305 preparation.
+Example 3F: Student has CS201 with C-. → C- (1.7) < C (2.0). PATH A NOT satisfied. If student also lacks CS102+STAT200 combination, CS301 prerequisite NOT SATISFIED.
+EXAMPLE SET 4 — CS401 PREREQUISITE (CS301 AND CS305 AND 90+ credits AND GPA ≥ 2.50)
+Example 4A: Student has CS301 (B), CS305 (C), 94 credits, GPA 2.67. → All four conditions met. CS401 prerequisite SATISFIED.
+Example 4B: Student has CS301 (B), CS305 (C), 94 credits, GPA 2.43. → GPA condition (2.43 < 2.50) NOT met. CS401 prerequisite NOT SATISFIED. Student must raise GPA before enrolling.
+Example 4C: Student has CS301 (B), CS305 (B), 88 credits, GPA 3.1. → Credit hour condition (88 < 90) NOT met at registration. If by the start of the semester the student will have completed 90 credits (e.g., through current enrollment), the student should consult the Registrar. Note that 90 credits must be completed and posted, not merely in progress.
+Example 4D: Student has CS301 (C) but CS305 grade is not yet posted (in progress). → CS305 condition not yet met (in-progress courses do not count). CS401 prerequisite NOT SATISFIED until CS305 grade is posted at C or higher.
+Example 4E: Student has CS301 (D) and CS305 (B+), 95 credits, GPA 2.6. → CS301 grade (D, 1.0) < C (2.0). CS301 condition NOT met. CS401 prerequisite NOT SATISFIED. Student must retake CS301.
+
+SECTION 4: COMMON PREREQUISITE QUESTIONS AND ANSWERS
+
+Q: I took CS101 at another university and earned a B. Can I enroll in CS102?
+A: Potentially yes, but only after the transfer credit has been officially evaluated and posted by the Office of Transfer Affairs and the equivalent course has been accepted as the CS101 equivalent with a grade of C+ or higher. You cannot use in-process transfer credit to satisfy prerequisites. If the transfer course was accepted but at a grade below C+ equivalent, you must take CS101 at GTU.
+
+Q: I earned a C in MATH110 two years ago. I want to take CS201. Can I?
+A: Yes. There is no time limit on the validity of completed prerequisites at GTU, provided the course content has not changed substantially. However, if you have been away from calculus for two years, you are strongly encouraged to review MATH110 material before enrolling in CS201, as the asymptotic analysis content assumes calculus fluency.
+
+Q: I have CS102 with a B and STAT200 with a B. Can I register for CS301 even though I haven't taken CS201?
+A: Yes. PATH B of the CS301 prerequisite is: CS102 (grade C or higher) AND STAT200 (grade C or higher). Your B grades in both courses satisfy PATH B. You do not need CS201 to enroll in CS301, though completing CS201 before or concurrently with CS301 is strongly recommended and will substantially deepen your understanding of the course material.
+
+Q: I earned a C in CS301 but a D in CS305 last semester. I want to retake CS305. Can I?
+A: Yes. You may retake CS305 as you have completed CS301 with a C (satisfying the CS301 prerequisite) and STAT200 and MATH230 (assumed from your first CS305 enrollment). Only the higher of your two CS305 grades will be included in your GPA calculation. Both attempts will appear on your transcript.
+
+Q: Can I take CS301 and STAT200 concurrently to satisfy PATH B of CS301's prerequisite?
+A: No. Concurrent enrollment in STAT200 does not satisfy the CS301 prerequisite for PATH B. The prerequisite requires STAT200 to be completed (grade posted) before CS301 enrollment. You must complete STAT200 in one semester and enroll in CS301 in a subsequent semester.
+
+Q: I need CS210 for my degree plan but I failed CS150 and need to retake it. How does this affect my timeline?
+A: Significantly. CS210 requires both CS150 AND CS201. Retaking CS150 delays your CS210 enrollment by at least one semester, which in turn delays CS230 (which requires CS210), CS330 (which requires CS230), and any other courses in the systems chain. Meet with your advisor immediately to develop a modified four-year plan that accommodates the retake.
+
+Q: I have 89 credits and want to register for CS401 next semester, during which I will complete 15 more credits, giving me 104 total. Does the 90-credit requirement look at credits at the time of registration or at the time the semester begins?
+A: The 90-credit requirement is checked at the time of enrollment (when you register), and the CRS checks the number of completed and posted credits at that moment. 89 posted credits does not satisfy the 90-credit threshold. However, if you are registering during a period when your current semester's credits have not yet been posted (e.g., you are registering for next fall while completing spring credits), you may petition the Registrar's Office for a manual review, providing your current enrollment and expected completion. In most cases, if you will clearly have 90+ credits before the start of the CS401 semester, the Registrar will process a manual enrollment with the stipulation that automatic withdrawal applies if the credit threshold is not met.
+
+SECTION 5: ACADEMIC CALENDAR AND REGISTRATION DATES — 2025–2026
+
+FALL SEMESTER 2025
+Registration Opens (Seniors): April 7, 2025
+Registration Opens (Juniors): April 9, 2025
+Registration Opens (Sophomores): April 11, 2025
+Registration Opens (Freshmen): April 14, 2025
+First Day of Classes: August 25, 2025
+Add/Drop Deadline (No Record): September 5, 2025
+Withdrawal Deadline (W Grade): October 24, 2025
+Last Day of Classes: December 5, 2025
+Final Examination Period: December 8–12, 2025
+Grades Due (Faculty): December 19, 2025
+
+WINTER INTERSESSION 2026
+Registration Opens: November 1, 2025
+Session Dates: January 5–16, 2026
+Maximum Credit Load: 4 credits
+
+SPRING SEMESTER 2026
+Registration Opens (Seniors): November 3, 2025
+Registration Opens (Juniors): November 5, 2025
+Registration Opens (Sophomores): November 7, 2025
+Registration Opens (Freshmen): November 10, 2025
+First Day of Classes: January 20, 2026
+Add/Drop Deadline (No Record): January 30, 2026
+Spring Break: March 9–13, 2026
+Withdrawal Deadline (W Grade): March 27, 2026
+Last Day of Classes: April 30, 2026
+Final Examination Period: May 4–8, 2026
+Commencement (May): May 15, 2026
+Grades Due (Faculty): May 15, 2026
+
+SUMMER SESSIONS 2026
+Session I: May 26 – June 26, 2026 (Maximum 6 credits)
+Session II: July 6 – August 7, 2026 (Maximum 6 credits)
+Full Summer: May 26 – August 7, 2026 (Maximum 9 credits combined)
+
+SECTION 6: CATALOG AUTHORITY AND AMENDMENT PROCEDURES
+
+This catalog represents the official academic regulations, course offerings, and degree requirements of Global Tech University for the 2025–2026 academic year. Students who begin a degree program under this catalog are generally entitled to complete their degree under the requirements stated herein, provided they maintain continuous enrollment (no absence of more than two consecutive semesters excluding summer). Students who interrupt their enrollment for more than two consecutive semesters may be required to complete degree requirements under the catalog in effect at the time of their return.
+
+Amendments to catalog requirements may be made by the GTU Academic Senate with majority approval and the concurrence of the Provost. Amendments that increase requirements (requiring more courses, higher grades, or additional criteria for existing students) must include a grandfather provision protecting students already enrolled in the affected program. Amendments that decrease requirements (relaxing standards) apply immediately to all enrolled students unless the Academic Senate specifies otherwise.
+
+Errors or discrepancies discovered in this catalog should be reported to the Office of the Academic Registrar at registrar@gtu.edu. In cases of discrepancy between this catalog and the GTU Course Registration System, the Academic Registrar will issue a written determination within ten business days. During the resolution period, the more student-favorable interpretation will be applied as a default.
+
+The GTU Academic Catalog is published annually each June for the academic year beginning the following August. The official electronic version, available at catalog.gtu.edu, is the authoritative document. Printed copies are provided as a convenience and may not reflect late amendments made after printing. Students are encouraged to check catalog.gtu.edu for the most current version.
+
+OFFICE OF THE ACADEMIC REGISTRAR Global Tech University Engineering Hall, Room 100 registrar@gtu.edu | (555) 867-5000 Office Hours: Monday–Friday, 8:30 AM – 5:00 PM
+
+
+END OF GTU ACADEMIC CATALOG — ACADEMIC YEAR 2025–2026
+
+
+
+
+

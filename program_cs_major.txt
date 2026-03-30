@@ -1,0 +1,137 @@
+GLOBAL TECH UNIVERSITY (GTU)
+BACHELOR OF SCIENCE IN COMPUTER SCIENCE
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
+FULL DEGREE REQUIREMENTS — ACADEMIC YEAR 2025–2026
+
+SECTION 1: PROGRAM OVERVIEW
+
+The Bachelor of Science in Computer Science (B.S. CS) at Global Tech University is a rigorous, four-year undergraduate program designed to equip students with deep theoretical foundations and extensive practical skills in computing. Graduates of this program are prepared for careers in software engineering, systems architecture, artificial intelligence, cybersecurity, data science, and academic or industrial research.
+The program combines a demanding core curriculum in computer science theory with hands-on laboratory experiences, interdisciplinary electives, and a culminating Senior Capstone Project. Students are encouraged to develop both technical excellence and ethical awareness, recognizing that the software and systems they build will profoundly shape human society.
+Program accreditation is maintained through ABET (Accreditation Board for Engineering and Technology), and the curriculum is reviewed and updated annually by the GTU Curriculum Committee in collaboration with the CS Industry Advisory Board.
+
+SECTION 2: PROGRAM LEARNING OUTCOMES
+
+Upon successful completion of the B.S. in Computer Science, graduates will be able to:
+
+1.Analyze, design, and implement algorithms and data structures appropriate to a given problem domain.
+2.Apply principles of software engineering to develop reliable, scalable, and maintainable software systems.
+3.Demonstrate understanding of computer organization, operating systems, and network architectures.
+4.Design and evaluate database systems, including relational and non-relational models.
+5.Apply mathematical and statistical reasoning to computational problems.
+6.Develop solutions using multiple programming paradigms, including object-oriented, functional, and concurrent programming.
+7.Identify and reason about ethical, legal, and societal implications of computing technologies.
+8.Communicate complex technical ideas effectively in both written and oral forms.
+9.Collaborate effectively in interdisciplinary team environments.
+10.Demonstrate readiness for graduate study or professional practice in computing.
+
+SECTION 3: DEGREE REQUIREMENTS SUMMARY
+
+Total Credit Hours Required: 120
+Breakdown:
+
+1.GTU Core Curriculum Requirements: 30 credits
+2.Computer Science Major Core: 54 credits
+3.Mathematics and Statistics Requirements: 18 credits
+4.CS Electives (Upper Division): 12 credits
+5.Free Electives: 6 credits
+
+SECTION 4: GTU CORE CURRICULUM (30 CREDITS)
+
+All GTU undergraduates must complete the following Core Curriculum requirements, regardless of major:
+Written Communication (6 credits):
+
+ENG101: Academic Writing I (3 credits)
+ENG102: Academic Writing II (3 credits)
+
+Quantitative Reasoning (3 credits) — Satisfied by MATH110 (see Mathematics Requirements)
+Natural Sciences (6 credits):
+
+PHYS101: Physics I with Lab (4 credits)
+PHYS102: Physics II with Lab (4 credits) — Students may substitute BIO101 or CHEM101 for one Physics course
+
+Social Sciences (3 credits):
+
+Any approved Social Science elective (ECON, PSYC, SOCI, POLS 100-200 level)
+
+Humanities (6 credits):
+
+HUMS201: Technology and Society (3 credits) — Required for all CS majors
+Any approved Humanities elective (PHIL, HIST, ARTS, ENGL 100-200 level)
+
+Ethics (3 credits):
+
+PHIL210: Ethics in Technology (3 credits) — Required for all CS majors
+
+Global Perspectives (3 credits):
+
+Any approved Global Perspectives course
+
+Health and Wellness (0 credits, Pass/Fail):
+
+HW100: Health and Wellness Seminar (Required, 0 credits)
+
+SECTION 5: MATHEMATICS AND STATISTICS REQUIREMENTS (18 CREDITS)
+MATH110: Calculus I (4 credits)
+MATH111: Calculus II (4 credits) — Prereq: MATH110
+MATH220: Discrete Mathematics (3 credits) — Prereq: MATH110
+MATH230: Linear Algebra (3 credits) — Prereq: MATH110
+STAT200: Probability and Statistics (4 credits) — Prereq: MATH110
+
+SECTION 6: COMPUTER SCIENCE MAJOR CORE (54 CREDITS)
+
+Lower Division Core (24 credits):
+
+CS101: Introduction to Programming (3 credits) — No prerequisites
+CS101L: Programming Lab I (1 credit) — Co-req: CS101
+CS102: Data Structures (3 credits) — Prereq: CS101 with grade C+ or higher
+CS102L: Data Structures Lab (1 credit) — Co-req: CS102
+CS150: Computer Organization and Architecture (3 credits) — Prereq: CS101
+CS160: Introduction to Software Engineering (3 credits) — Prereq: CS102
+CS170: Web Technologies and Development (3 credits) — Prereq: CS101
+MATH110: Calculus I (counted in Mathematics Requirements)
+CS180: Discrete Structures for CS (3 credits) — Co-listed with MATH220; Prereq: CS101 AND MATH110
+CS190: Object-Oriented Programming (3 credits) — Prereq: CS102
+
+Upper Division Core (30 credits):
+
+CS201: Algorithms (3 credits) — Prereq: CS102 AND MATH110
+CS210: Operating Systems (3 credits) — Prereq: CS150 AND CS201
+CS220: Database Systems (3 credits) — Prereq: CS201
+CS230: Computer Networks (3 credits) — Prereq: CS210
+CS250: Programming Languages (3 credits) — Prereq: CS201
+CS280: Software Engineering II (3 credits) — Prereq: CS160 AND CS201
+CS290: Theory of Computation (3 credits) — Prereq: CS201 AND MATH220
+CS301: Artificial Intelligence (3 credits) — Prereq: CS201 OR [CS102 AND STAT200]
+CS305: Machine Learning (3 credits) — Prereq: CS301 AND STAT200 AND MATH230
+CS401: Senior Capstone Project (6 credits) — Prereq: CS301 AND CS305 AND 90+ credits; Min GPA 2.50
+
+SECTION 7: UPPER DIVISION CS ELECTIVES (12 CREDITS)
+
+Students must complete at least four upper-division CS electives (300–400 level), with at least two from a single approved concentration track. Concentration tracks include:
+Track A — Artificial Intelligence and Machine Learning:
+CS310: Deep Learning, CS315: Natural Language Processing, CS320: Computer Vision, CS325: Reinforcement Learning
+Track B — Systems and Security:
+CS330: Cybersecurity Fundamentals, CS335: Network Security, CS340: Cloud Computing, CS345: Embedded Systems
+Track C — Data and Software Engineering:
+CS350: Big Data Systems, CS355: Software Architecture, CS360: Human-Computer Interaction, CS365: Mobile Application Development
+
+SECTION 8: RECOMMENDED FOUR-YEAR PLAN
+
+Year 1, Fall: CS101, CS101L, MATH110, ENG101, PHYS101 (16 credits)
+Year 1, Spring: CS102, CS102L, CS150, MATH111, ENG102 (15 credits)
+Year 2, Fall: CS201, CS160, CS180, STAT200, HUMS201 (16 credits)
+Year 2, Spring: CS190, CS210, CS220, MATH230, Social Science Elective (15 credits)
+Year 3, Fall: CS301, CS230, CS250, CS280, PHIL210 (15 credits)
+Year 3, Spring: CS305, CS290, CS Elective I, CS Elective II, Humanities Elective (15 credits)
+Year 4, Fall: CS401 (part I), CS Elective III, CS Elective IV, Free Elective I, Global Perspectives (15 credits)
+Year 4, Spring: CS401 (part II), Free Elective II, Remaining Requirements (13 credits)
+
+SECTION 9: ADVISING AND PROGRESSION MILESTONES
+
+Students must meet with their assigned CS Academic Advisor at least once per semester. Mandatory advising holds are placed on registration accounts before each enrollment period and are released only upon advisor confirmation of satisfactory academic progress.
+Milestone checkpoints:
+
+End of Year 1: Confirm C+ or higher in CS101 to proceed to CS102
+End of Year 2: Declare concentration track; confirm completion of all lower-division core
+End of Year 3: Capstone readiness review with advisor; confirm GPA eligibility (2.50+)
+Graduation Application: Filed by October 1 for May graduation; February 1 for August/December
