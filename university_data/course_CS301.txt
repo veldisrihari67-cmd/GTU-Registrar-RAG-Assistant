@@ -1,0 +1,117 @@
+GLOBAL TECH UNIVERSITY — COURSE SYLLABUS
+CS301: ARTIFICIAL INTELLIGENCE
+Credits: 3 | Lecture: 3 hours/week
+Department: Computer Science and Engineering
+Prerequisites: CS201 (minimum grade C) OR [CS102 (minimum grade C) AND STAT200 (minimum grade C)]
+
+COURSE DESCRIPTION
+
+
+CS301: Artificial Intelligence is one of the most intellectually ambitious and practically consequential courses in the GTU Computer Science curriculum. It provides a comprehensive, principled introduction to the field of artificial intelligence — the science and engineering of creating intelligent machines — covering the foundational theories, algorithmic techniques, and contemporary applications that define AI as a discipline.
+
+The course is organized around a central question: what does it mean for a machine to behave intelligently? This question is pursued through three major topic areas. The first is Search and Problem Solving, covering classical AI techniques for navigating state spaces — uninformed search (BFS, DFS), informed search (A*, heuristics), adversarial search (minimax, alpha-beta pruning), and constraint satisfaction problems. The second is Knowledge, Reasoning, and Planning, covering propositional and first-order logic, knowledge representation, inference systems, and classical planning. The third is Learning and Probabilistic Reasoning, covering Bayesian networks, probability theory for AI, supervised learning (as a preview of CS305), and reinforcement learning fundamentals.
+
+Students will implement AI algorithms in Python, developing hands-on experience with search agents, logic solvers, Bayesian classifiers, and simple learning algorithms. They will also engage critically with the philosophical, ethical, and societal dimensions of AI, including questions about machine consciousness, algorithmic bias, autonomous systems, and the long-term future of artificial intelligence.
+
+The prerequisite logic for CS301 reflects its dual audience. Students who have completed CS201 (Algorithms) are well-prepared for the theoretical rigor of AI algorithms and their complexity analysis. Students who have completed CS102 and STAT200 but not yet CS201 have the programming maturity and probabilistic foundation to engage with the learning and probabilistic reasoning portions of the course and are assumed to be concurrently addressing any remaining algorithmic gaps.
+
+LEARNING OBJECTIVES
+
+Define artificial intelligence and distinguish between strong AI, weak AI, and artificial general intelligence.
+Formulate problems as state-space search problems, defining states, actions, goal tests, and path costs.
+Implement and analyze uninformed search algorithms: BFS, DFS, uniform-cost search, iterative deepening DFS.
+Implement and analyze informed search algorithms, including greedy best-first search and A* search with admissible heuristics.
+Prove the optimality and completeness of A* search under specified conditions.
+Implement minimax search for two-player zero-sum games and explain alpha-beta pruning's effect on search efficiency.
+Model and solve constraint satisfaction problems (CSPs) using backtracking, forward checking, and arc consistency.
+Represent knowledge using propositional logic and first-order predicate logic, and apply inference rules (modus ponens, resolution).
+Apply Bayesian probability theory to reason under uncertainty, including Bayes' theorem and conditional independence.
+Construct and perform inference on Bayesian networks.
+Explain the Markov Decision Process (MDP) framework and apply dynamic programming (value iteration, policy iteration) to solve MDPs.
+Implement a basic Q-learning agent for a simple reinforcement learning task.
+Describe the principles of supervised machine learning, including the concepts of training data, features, loss functions, and generalization.
+Implement a naive Bayes classifier and evaluate its performance on a text classification task.
+Discuss ethical issues in AI, including algorithmic bias, autonomous weapons, privacy, and AI safety.
+Apply AI concepts to real-world domains: robotics, natural language processing, computer vision, and game playing.
+Read and critically summarize foundational AI research papers.
+
+
+WEEKLY COURSE BREAKDOWN
+
+Week 1: Introduction to AI — History, Philosophy, and Scope
+Topics: What is AI, the Turing Test, brief history of AI (symbolic AI, the AI winters, the deep learning revolution), rational agents and environments, AI applications today.
+Assignments: Reading: Russell & Norvig Chapter 1; Reflection essay: "What is intelligence?"
+
+Week 2: Search I — Uninformed Search
+Topics: Problem formulation, the search tree, BFS (completeness, optimality, complexity), DFS, uniform-cost search, iterative deepening DFS, bidirectional search.
+Assignments: Problem set 1 — search problem formulation; Programming assignment 1 (implement BFS and DFS for a maze solver).
+
+Week 3: Search II — Informed Search and Heuristics
+Topics: Heuristic functions, greedy best-first search, A* search algorithm, admissibility and consistency of heuristics, the 8-puzzle problem, heuristic design strategies.
+Assignments: Problem set 2 — A* and heuristics; Extend programming assignment 1 to include A*.
+
+Week 4: Adversarial Search and Game Playing
+Topics: Two-player zero-sum games, the minimax algorithm, alpha-beta pruning, evaluation functions, stochastic games, expectimax, Monte Carlo Tree Search (MCTS) introduction.
+Assignments: Problem set 3 — minimax and alpha-beta; Programming assignment 2 (minimax Tic-Tac-Toe agent).
+
+Week 5: Constraint Satisfaction Problems
+Topics: CSP formulation, backtracking search, forward checking, arc consistency (AC-3 algorithm), constraint propagation, applications (map coloring, Sudoku, scheduling).
+Assignments: Problem set 4 — CSP modeling and solution; Quiz 1.
+
+Week 6: Logical Agents and Propositional Logic
+Topics: Knowledge bases and inference engines, propositional logic syntax and semantics, validity, satisfiability, entailment, model checking, resolution algorithm, DPLL algorithm.
+Assignments: Problem set 5 — propositional logic proofs.
+
+Week 7: First-Order Logic
+Topics: Syntax of FOL (constants, predicates, functions, quantifiers), semantics of FOL, unification, the generalized Modus Ponens rule, forward and backward chaining, introduction to Prolog.
+Assignments: Problem set 6 — FOL representation; Midterm Project Announced.
+
+Week 8: Midterm Examination and Review
+Topics: Review Weeks 1–7; Midterm Exam; Midterm Project due (a complete AI agent for a specified environment, using search and/or constraint satisfaction).
+Assignments: Midterm Exam; Midterm Project.
+
+Week 9: Probability and Bayesian Reasoning
+Topics: Probability review, conditional probability, Bayes' theorem, the full joint distribution, independence and conditional independence, inference by enumeration.
+Assignments: Problem set 7 — Bayesian reasoning.
+
+Week 10: Bayesian Networks
+Topics: Bayesian network structure and semantics, conditional probability tables, exact inference (variable elimination), approximate inference (rejection sampling, likelihood weighting), applications.
+Assignments: Problem set 8 — Bayesian network construction and inference; Programming assignment 3 (Bayesian network in Python).
+
+Week 11: Markov Decision Processes and Reinforcement Learning I
+Topics: MDPs — states, actions, transition model, reward function, discount factor; policies and value functions; Bellman equations; value iteration; policy iteration.
+Assignments: Problem set 9 — MDP value iteration.
+
+Week 12: Reinforcement Learning II — Q-Learning
+Topics: Model-free RL, temporal difference learning, Q-learning algorithm, exploration vs. exploitation (epsilon-greedy), convergence of Q-learning, introduction to deep Q-networks.
+Assignments: Programming assignment 4 (Q-learning agent for a grid world); Quiz 2.
+
+Week 13: Machine Learning in AI Context
+Topics: Supervised learning overview, the bias-variance tradeoff, decision trees, the naive Bayes classifier, k-nearest neighbors, evaluation metrics (accuracy, precision, recall, F1), overfitting and regularization.
+Assignments: Problem set 10 — classifier implementation and evaluation.
+
+Week 14: Natural Language Processing and Computer Vision (Survey)
+Topics: NLP pipeline (tokenization, POS tagging, parsing, sentiment analysis), word embeddings (Word2Vec introduction), computer vision (image classification pipeline, convolutional networks preview).
+Assignments: Programming assignment 5 (text classification using naive Bayes); Final Project work session.
+
+Week 15: AI Ethics, Safety, and the Future of AI
+Topics: Algorithmic bias and fairness (definitions, case studies), AI in criminal justice and healthcare, autonomous weapons, AI safety and alignment, existential risk perspectives, the future of AGI.
+Assignments: Final Project due (a complete AI system implementing at least two distinct AI techniques, with written technical report and ethical reflection); Course Evaluation.
+
+ACADEMIC CONTEXT
+
+The prerequisite structure of CS301 is the most complex in the GTU CS curriculum, and it merits careful explanation. The OR in the prerequisite logic — CS201 OR [CS102 AND STAT200] — reflects two genuinely different but legitimate pathways into AI. The first pathway, through CS201, assumes that a student arrives at CS301 with deep exposure to algorithm design and analysis, including graph algorithms, dynamic programming, and complexity theory, all of which appear directly in the search, planning, and DP-based reinforcement learning content of CS301. The second pathway, through CS102 and STAT200, assumes a student with solid data structures knowledge and a strong probability and statistics background, which is particularly appropriate for students whose primary interest is in the probabilistic and learning-based aspects of AI — Bayesian networks, machine learning, and reinforcement learning — rather than in classical symbolic AI.
+
+It is important to note that both pathways have genuine advantages and genuine gaps. A student who arrives via CS201 but has not yet taken STAT200 may find the Bayesian reasoning sections of CS301 challenging; they are strongly encouraged to take STAT200 concurrently. A student who arrives via CS102 and STAT200 but has not yet taken CS201 may find the algorithm analysis and complexity discussions less familiar; they are strongly encouraged to take CS201 concurrently or in the following semester. The OR in the prerequisite is not a shortcut — it is an acknowledgment that there are multiple legitimate intellectual entry points into AI, reflecting the field's own intellectual diversity.
+
+Artificial Intelligence as a field has undergone a remarkable transformation in the past decade. The deep learning revolution, beginning roughly in 2012 with AlexNet's performance on the ImageNet benchmark, shifted the center of gravity of AI research from symbolic, logic-based approaches to statistical, data-driven approaches. Many introductory AI courses have responded by focusing almost exclusively on machine learning and deep learning, abandoning the classical topics of search, logic, and planning. CS301 at GTU deliberately takes a different approach, providing a balanced treatment of both classical and modern AI. This balance is justified on multiple grounds.
+
+First, classical AI techniques remain enormously practically important. A* search is used in video game pathfinding, GPS navigation, and robotics. Constraint satisfaction algorithms are used in scheduling, configuration, and resource allocation. Bayesian networks are used in medical diagnosis, fault detection, and spam filtering. These are not historical curiosities — they are production systems deployed at massive scale.
+
+Second, understanding classical AI provides the conceptual framework for understanding why deep learning works and what its limitations are. A student who understands that A* search requires an admissible heuristic to guarantee optimality can reason about the conditions under which learned heuristics (as in AlphaZero's neural network evaluation function) might or might not lead to optimal solutions. A student who understands the MDP framework can reason about the reward function design choices that determine whether a reinforcement learning agent learns the intended behavior.
+
+Third, the ethical and philosophical dimensions of AI — which CS301 addresses in its final week and weaves throughout the course — are most accessible to students who have some grasp of the technical mechanisms involved. The algorithmic bias discussion is more concrete and actionable for students who understand how decision tree classifiers are trained and how their outputs can encode historical discrimination. The AI safety discussion is more grounded for students who understand the goal of an MDP agent and can reason about specification errors in reward functions.
+
+
+
+

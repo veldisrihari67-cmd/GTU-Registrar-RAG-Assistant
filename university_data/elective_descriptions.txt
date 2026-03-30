@@ -1,0 +1,177 @@
+GLOBAL TECH UNIVERSITY — COURSE CATALOG
+HUMANITIES AND ETHICS ELECTIVE DESCRIPTIONS
+DEPARTMENT OF HUMANITIES, ARTS, AND SOCIAL SCIENCES (HASS)
+IN COLLABORATION WITH THE DEPARTMENT OF PHILOSOPHY
+ACADEMIC YEAR 2025–2026
+
+OVERVIEW
+
+Global Tech University recognizes that the most consequential technological decisions of our time — about artificial intelligence, data privacy, platform governance, algorithmic fairness, and the future of work — are not purely technical questions. They are questions that require historical knowledge, ethical reasoning, philosophical clarity, and an understanding of the social systems within which technology is embedded. The following five Humanities and Ethics elective courses are designed specifically for students in technical programs, providing the interdisciplinary perspectives that complement and deepen their technical education. All five courses are approved to satisfy the Humanities or Ethics requirements of the GTU Core Curriculum.
+
+COURSE 1
+
+PHIL210: ETHICS IN TECHNOLOGY
+Credits: 3 | Lecture: 3 hours/week
+Department: Philosophy
+Prerequisites: None (Required for all CS and DS majors; satisfies GTU Ethics Core requirement)
+COURSE DESCRIPTION:
+PHIL210: Ethics in Technology is a required course for all students in the Computer Science and Data Science programs at Global Tech University, reflecting the institution's conviction that technical excellence without ethical literacy is not merely incomplete but potentially dangerous. The course provides students with the conceptual and analytical tools of moral philosophy — applied to the real-world ethical challenges posed by computing and digital technology — enabling them to reason clearly, argue rigorously, and make defensible decisions in the ethically complex situations they will inevitably encounter as technology professionals.
+The course surveys the major traditions of ethical theory — consequentialism (including utilitarianism), deontological ethics (including Kantian ethics), virtue ethics, contractualism, and care ethics — and applies each framework to a series of case studies drawn from the contemporary technology landscape. Case study domains include: algorithmic decision-making and bias (predictive policing, hiring algorithms, credit scoring), data privacy and surveillance (the Facebook-Cambridge Analytica scandal, government mass surveillance, workplace monitoring), artificial intelligence safety and control (autonomous weapons, self-driving vehicles, AI alignment), platform governance and free speech (content moderation, misinformation, the role of social media companies), intellectual property and the digital economy (software patents, open source, the gig economy), and the environmental impact of computing (the carbon footprint of data centers and large AI models, e-waste).
+PHIL210 is not a course about what to think regarding these issues — it does not advocate for a particular political or ethical position on any of the contested questions it examines. It is a course about how to think about these issues: how to identify the morally relevant features of a situation, how to apply ethical frameworks systematically, how to recognize and address counter-arguments, how to reason under moral uncertainty, and how to communicate ethical positions clearly and persuasively. Students will write three substantial analytical essays and participate in structured Socratic seminars in which they must argue for positions they may personally disagree with, developing the intellectual flexibility and rigor that genuine ethical reasoning requires.
+LEARNING OBJECTIVES:
+
+Define and distinguish the major traditions of ethical theory: consequentialism, deontology, virtue ethics, contractualism, and care ethics.
+Apply each ethical framework to analyze and evaluate technology-related moral dilemmas, identifying the framework's strengths and limitations in each context.
+Identify the morally relevant stakeholders, interests, rights, and consequences in complex technology ethics cases.
+Construct and evaluate philosophical arguments, including identification of premises, logical structure, and potential objections.
+Analyze the concept of algorithmic fairness across multiple formal definitions (individual fairness, group fairness, equalized odds) and reason about their incompatibility.
+Apply privacy theory (Warren and Brandeis, Westin, contextual integrity) to evaluate data collection, use, and sharing practices.
+Reason about moral responsibility in sociotechnical systems: when is a software engineer, a company, or a platform morally responsible for harm caused by a system they helped build?
+Evaluate arguments about AI safety, value alignment, and the ethics of autonomous systems.
+Analyze the ethics of platform governance, including content moderation, algorithmic amplification, and the tension between free expression and harm prevention.
+Apply environmental ethics frameworks to the ecological impacts of computing infrastructure.
+Distinguish empirical questions (about facts) from normative questions (about values) and recognize when technical expertise is and is not relevant to ethical conclusions.
+Write clear, well-structured, philosophically rigorous analytical essays of 1,500–2,500 words on technology ethics topics.
+Participate constructively in Socratic seminar discussion, presenting and defending positions, responding to objections, and updating views in light of argument.
+Recognize and reason about moral uncertainty: how to make decisions when the right answer is not clear and thoughtful people disagree.
+Articulate a personal, reasoned ethical framework for professional technology practice and defend it against critical examination.
+
+WEEKLY BREAKDOWN (SELECTED HIGHLIGHTS):
+Weeks 1–2: Introduction to Ethical Theory — Consequentialism, Deontology, Virtue Ethics, Contractualism
+Weeks 3–4: Algorithmic Bias and Fairness — Technical Definitions, Philosophical Frameworks, Case Studies
+Weeks 5–6: Privacy in the Digital Age — Theory, Surveillance Capitalism, Contextual Integrity
+Weeks 7–8: Artificial Intelligence Safety and Autonomous Systems — Trolley Problems at Scale
+Weeks 9–10: Platform Governance — Free Speech, Content Moderation, and the Architecture of Attention
+Weeks 11–12: Intellectual Property, Open Source, and the Digital Economy
+Weeks 13–14: Environmental Ethics of Computing
+Week 15: Professional Ethics — The Technology Engineer's Moral Responsibilities; Course Synthesis
+ACADEMIC CONTEXT:
+The requirement of PHIL210 for all CS and DS students reflects a conviction shared by the GTU faculty across departments: that the ethical dimensions of technology cannot be addressed adequately by engineers who have not developed a philosophical vocabulary and argumentative framework for engaging with moral questions. The history of technology is littered with examples of consequential systems deployed without adequate ethical consideration: the Facebook News Feed's algorithmic optimization for engagement that amplified outrage and misinformation, the COMPAS recidivism algorithm deployed in criminal sentencing without adequate validation of its fairness properties, the facial recognition systems deployed by law enforcement with dramatically different error rates across racial categories. In each case, the engineers who built these systems possessed extraordinary technical skill and, in many cases, good intentions. What they often lacked was the ethical reasoning capacity to anticipate the moral implications of their design choices, the philosophical vocabulary to articulate those implications, and the professional courage to advocate for ethical constraints on systems they recognized as problematic.
+PHIL210 cannot fully resolve this deficit in a single semester — ethical development is a lifelong project. But it can provide the intellectual tools, the habits of moral reasoning, and the awareness of ethical complexity that make ethical development possible. Students who complete PHIL210 with genuine engagement leave with more than a set of ethical frameworks; they leave with a transformed sense of their professional identity, understanding themselves not merely as technologists but as moral agents whose work has consequences for other people and for society, and who bear a corresponding responsibility to reason carefully about those consequences.
+
+COURSE 2
+
+HUMS201: TECHNOLOGY AND SOCIETY
+Credits: 3 | Lecture: 3 hours/week
+Department: Humanities, Arts, and Social Sciences
+Prerequisites: None (Required for all CS and DS majors; satisfies GTU Humanities Core requirement)
+COURSE DESCRIPTION:
+HUMS201: Technology and Society examines the complex, bidirectional relationship between technological development and social, cultural, economic, and political change. Technology does not emerge from a vacuum and descend upon society as an external force — it is created by people, in social contexts, shaped by cultural assumptions, economic incentives, and power relations, and it in turn reshapes the societies and cultures that created it. Understanding this dynamic is essential for anyone who builds technology, because the systems engineers create do not merely solve the technical problems they were designed to address; they also, necessarily, embed values, alter power distributions, enable new behaviors, and foreclose others.
+The course is organized chronologically and thematically, moving from the Industrial Revolution through the Information Age to the present moment of artificial intelligence and platform capitalism. It draws on the sociology of technology (social construction of technology, actor-network theory), the history of technology (Luddism, the telegraph, the printing press), media studies (Marshall McLuhan, the medium as the message), political economy (surveillance capitalism, platform monopolies), and science and technology studies (STS). Students will read primary and secondary sources from multiple disciplines, write analytical papers, and engage in discussion-based seminars.
+LEARNING OBJECTIVES:
+
+Describe and apply the Social Construction of Technology (SCOT) framework to analyze how social factors shape technological development.
+Explain actor-network theory (ANT) and apply it to trace the human and non-human actors involved in a specific technology's development and deployment.
+Analyze historical case studies of technology and social change: the printing press and the Reformation, the telegraph and the transformation of time and space, industrialization and the transformation of labor.
+Apply Marshall McLuhan's concept of the medium as the message to analyze digital media platforms.
+Analyze the concept of technological determinism and distinguish it from social constructivism.
+Explain Shoshana Zuboff's concept of surveillance capitalism and evaluate it as an analysis of the business model of major technology platforms.
+Analyze platform capitalism: the economics of two-sided markets, network effects, winner-take-all dynamics, and the political economy of platform monopolies.
+Examine the relationship between algorithmic systems and existing social inequalities in domains including labor, housing, credit, and criminal justice.
+Analyze the history and contemporary manifestations of technological unemployment fears and evaluate the evidence regarding automation and labor markets.
+Apply the concept of technological affordances to analyze how the design of digital systems shapes user behavior and social interaction.
+Evaluate the democratic implications of the concentration of technological power in a small number of private corporations.
+Write analytical papers of 2,000–3,000 words that apply STS frameworks to contemporary technology phenomena, with proper academic citation.
+Engage in interdisciplinary seminar discussions, integrating perspectives from sociology, history, economics, and philosophy.
+Articulate a nuanced position on a contested technology-society question, acknowledging complexity and avoiding technological determinism.
+Apply the historical and sociological insights of HUMS201 to reflect critically on their own practice as future technology professionals.
+
+ACADEMIC CONTEXT:
+HUMS201 provides CS and DS students with what is sometimes called the "view from outside the machine" — the sociological and historical perspective on technology that is invisible from within the technical disciplines. Engineers who understand how technology has historically been deployed in ways that entrenched existing power structures, amplified social inequalities, and produced unintended consequences are better equipped to anticipate and mitigate these dynamics in the systems they design. The sociological imagination that HUMS201 cultivates — the ability to see one's own work within its broader social context — is a professional asset as well as an intellectual one. Companies that build products used by diverse, global populations can only serve those populations well if their engineers understand the social worlds in which their products will be used, and this understanding requires exactly the kind of historical and sociological perspective that HUMS201 provides.
+
+COURSE 3
+
+PHIL315: PHILOSOPHY OF MIND AND ARTIFICIAL INTELLIGENCE
+Credits: 3 | Lecture: 3 hours/week
+Department: Philosophy
+Prerequisites: PHIL210 (recommended, not required)
+COURSE DESCRIPTION:
+PHIL315: Philosophy of Mind and Artificial Intelligence explores the deep philosophical questions raised by the possibility of artificial minds: Can machines think? Can they be conscious? If a machine behaves indistinguishably from a human, does it have a mind? What is the relationship between computation and cognition? These questions, which were once the province of science fiction, have become urgent philosophical and practical concerns as artificial intelligence systems demonstrate increasingly sophisticated language understanding, creative output, and problem-solving ability.
+The course begins with the foundational philosophy of mind: dualism (Descartes), behaviorism, functionalism (Putnam), physicalism, and the hard problem of consciousness (Chalmers). It then applies these frameworks to AI: the Turing Test and its critiques, the Chinese Room argument (Searle), multiple realizability and substrate independence, intentionality and representation, the frame problem, embodied cognition, and the ethics of moral status — under what conditions, if any, would an artificial system deserve moral consideration?
+Students will engage with primary philosophical texts alongside readings from cognitive science, AI research, and the emerging field of AI ethics. The course is designed to be accessible to students without prior philosophy coursework, while providing sufficient rigor to satisfy students who have completed PHIL210.
+LEARNING OBJECTIVES:
+
+Describe the major positions in the philosophy of mind: dualism, behaviorism, functionalism, physicalism, and eliminative materialism.
+Explain and critically evaluate the Turing Test as a criterion for machine intelligence.
+Present and evaluate Searle's Chinese Room argument against strong AI.
+Explain Putnam's multiple realizability argument and its implications for functionalism and AI.
+Describe the hard problem of consciousness and explain why it poses a challenge that the easy problems do not.
+Apply the concept of intentionality (aboutness) to evaluate whether current AI systems have genuine semantic understanding.
+Explain the frame problem in AI and discuss its philosophical significance for theories of cognition.
+Evaluate theories of embodied and embedded cognition and their implications for AI design.
+Reason about the moral status of artificial systems: what properties (sentience, interests, preferences, self-awareness) are relevant, and how would we determine whether an AI possesses them?
+Apply philosophical frameworks to evaluate claims made by AI companies and researchers about the capabilities and consciousness of their systems.
+Engage with cutting-edge philosophical and empirical research on large language models, emergent capabilities, and AI consciousness.
+Write a philosophical research paper of 3,000–4,000 words on a topic in philosophy of mind and AI.
+Participate in structured philosophical dialogue, advancing and defending a thesis in response to objections.
+Identify and resist anthropomorphic reasoning in discussions of AI behavior and capability.
+Articulate the philosophical significance of the AI revolution for traditional humanistic questions about the nature of mind, the uniqueness of human cognition, and the meaning of consciousness.
+
+ACADEMIC CONTEXT:
+PHIL315 addresses questions that are becoming increasingly pressing as AI systems grow in sophistication. When a large language model produces a poem that moves a reader to tears, or engages in a philosophical discussion with apparent understanding, or expresses what appear to be preferences and distress, the questions of philosophy of mind are no longer merely academic. Engineers and researchers who build these systems, companies that deploy them, regulators who govern them, and citizens who interact with them all need some framework for thinking about what these systems are — what they can and cannot do, whether they have interests that deserve consideration, and how human consciousness and cognition differ from (or resemble) the computational processes of AI. PHIL315 provides exactly this framework, and its position as an elective in the GTU CS curriculum reflects the faculty's belief that these questions will become increasingly central to the professional lives of computing graduates over the coming decades.
+
+COURSE 4
+
+HIST220: HISTORY OF COMPUTING AND DIGITAL CULTURE
+Credits: 3 | Lecture: 3 hours/week
+Department: History
+Prerequisites: None
+COURSE DESCRIPTION:
+HIST220: History of Computing and Digital Culture traces the intellectual, social, and cultural history of computing from the mechanical calculators of the seventeenth century through the personal computer revolution, the rise of the internet, the smartphone era, and the current moment of artificial intelligence and platform capitalism. History is not merely a record of the past — it is the discipline that makes the present intelligible by revealing the choices, contingencies, and power relations that shaped the world as it currently exists. For students in computing, understanding the history of their field provides context for the technologies they use, the institutions they work within, and the challenges they will face.
+The course covers: the mathematical foundations of computing (Leibniz, Babbage, Lovelace, Boole); the wartime computing revolution (Turing, ENIAC, codebreaking at Bletchley Park); the development of programming languages and software (FORTRAN, COBOL, UNIX, the free software movement); the personal computer revolution (Xerox PARC, Apple, Microsoft, IBM); the internet's origins (ARPANET, TCP/IP, the World Wide Web); the dot-com boom and bust; Web 2.0 and social media; the smartphone revolution; the cloud computing era; and the present moment of big data, machine learning, and platform capitalism. Throughout, the course examines not only technical developments but the social and cultural forces that shaped them: the Cold War, the counterculture, the feminist critique of computing culture, the libertarian ideology of Silicon Valley, and the global political economy of technology production.
+LEARNING OBJECTIVES:
+
+Describe the major milestones in the history of computing, from mechanical calculators through artificial intelligence.
+Explain the intellectual contributions of foundational figures including Babbage, Lovelace, Turing, von Neumann, Hopper, Shannon, and Berners-Lee.
+Analyze the role of military funding and Cold War competition in shaping the development of computing in the mid-twentieth century.
+Explain the development of programming languages and operating systems as historical processes shaped by technical, economic, and social factors.
+Describe the personal computer revolution as a cultural as well as technological phenomenon, examining the ideologies of its participants.
+Explain the origins and architecture of the internet and the World Wide Web and the political choices embedded in their design.
+Analyze the dot-com boom and bust as a case study in the relationship between technological hype, financial speculation, and real innovation.
+Examine the history of women and minorities in computing, including their exclusion from leadership roles and the structural factors that produced the demographic homogeneity of the tech industry.
+Apply historical analysis to evaluate contemporary claims about technology's social impact, identifying historical analogies and disanalogies.
+Write historical analysis essays of 1,500–2,500 words using primary and secondary sources with appropriate citation.
+Recognize the contingency of technological development — that the digital world we inhabit was not inevitable but resulted from specific choices made by specific people in specific contexts.
+Connect historical understanding of computing to current debates about platform regulation, AI governance, and the future of digital technology.
+
+ACADEMIC CONTEXT:
+HIST220 provides CS and DS students with the temporal perspective that technical training alone cannot. Every programming language, data structure, networking protocol, and computing paradigm that students study in their technical courses has a history — a story of who invented it, why, in what context, with what resources and constraints, and what alternatives were proposed and rejected. Understanding these stories does not merely make technical education more interesting; it makes it more intelligible. Students who know that the design of Unix was influenced by the PDP-7 computer's memory constraints understand why certain Unix conventions (short command names, pipes, the file abstraction) have the form they do. Students who know that the internet was designed to survive nuclear attack understand why the TCP/IP protocol stack has the decentralized, fault-tolerant architecture it does. History is not decoration on the edifice of technical knowledge — it is part of the foundation.
+The examination of gender and race in computing history — a component of HIST220 that some students initially approach with resistance — is essential and evidence-based. The historical record shows clearly that women played central roles in early computing (the ENIAC programmers, Grace Hopper, Margaret Hamilton) before being systematically excluded from the field as it became more prestigious and lucrative, a process documented by historian Nathan Ensmenger and others. Understanding this history is the first step toward understanding the structural dynamics that continue to produce demographic homogeneity in the technology industry, and toward taking seriously the obligation of computing professionals to work toward a more inclusive field.
+
+COURSE 5
+
+WRIT310: TECHNICAL WRITING FOR COMPUTER SCIENTISTS
+Credits: 3 | Lecture: 2 hours/week | Lab: 1 hour/week
+Department: Writing and Communication
+Prerequisites: ENG102 (minimum grade C); Recommended: completion of at least one CS upper-division course
+COURSE DESCRIPTION:
+WRIT310: Technical Writing for Computer Scientists is a writing-intensive course designed to develop the advanced written communication skills that are essential for professional and academic success in computing. Technical writing in CS encompasses a wide range of genres and audiences: API documentation for developers, technical blog posts for a programming community, user manuals for non-technical end users, requirements specifications for product teams, research papers for academic peer review, incident post-mortem reports for operational teams, grant proposals for funding agencies, and executive briefings for non-technical leadership. Each genre has its own conventions, its own rhetorical challenges, and its own standards of excellence, and WRIT310 develops fluency across this entire range.
+The course is structured as a writing workshop: students produce substantial written work every week, receive detailed feedback from the instructor and peers, and revise iteratively. The genres covered include technical documentation (README files, API documentation using OpenAPI and docstrings), technical blog posts, software requirements specifications (SRS), research paper writing (including the abstract, introduction, related work, methodology, results, and discussion sections), and professional communications (technical reports, incident post-mortems, and executive summaries). A special emphasis is placed on writing for non-technical audiences — the ability to explain complex technical concepts clearly to people without a CS background is among the most valuable and least commonly taught communication skills in the discipline.
+LEARNING OBJECTIVES:
+
+Analyze the rhetorical context (audience, purpose, genre, medium) of a technical writing task and adapt content, structure, and style accordingly.
+Write clear, concise, and accurate technical documentation including README files, API documentation, and inline code comments following established conventions (PEP 257, OpenAPI specification).
+Write a compelling technical blog post that explains a complex technical concept accessibly to a target audience of technical peers.
+Produce a professional Software Requirements Specification (SRS) document following IEEE standards, including functional requirements, non-functional requirements, use cases, and acceptance criteria.
+Write each section of a CS research paper (abstract, introduction, related work, methodology, results, discussion, conclusion) following the conventions of top CS venues.
+Write a blameless post-mortem report for a technical incident, following SRE best practices (incident summary, timeline, root cause analysis, action items).
+Write an executive summary that translates a complex technical analysis into a form accessible to non-technical decision-makers, without sacrificing accuracy.
+Apply plain language principles to simplify technical prose without losing precision.
+Use data visualization (charts, diagrams, tables) effectively to support written technical arguments.
+Apply citation, attribution, and academic integrity standards correctly across all genres of technical writing.
+Revise technical writing substantively in response to detailed feedback, demonstrating improvement across multiple drafts.
+Provide constructive, specific, actionable feedback on peers' technical writing in workshop settings.
+Adapt technical writing style across registers: informal (Slack messages, code review comments), semi-formal (technical blog posts), and formal (research papers, SRS documents).
+Apply inclusive language practices in technical writing, avoiding jargon, acronyms, and assumptions that exclude non-expert readers.
+Demonstrate command of grammar, mechanics, and technical English conventions at a professional level.
+
+ACADEMIC CONTEXT:
+WRIT310 addresses a widely documented deficit in CS education: the gap between technical competence and written communication ability. Study after study of employer satisfaction with computer science graduates identifies communication skills — written and oral — as the area where new hires most frequently fall short of expectations. The ability to document code clearly, to write a compelling technical blog post that drives adoption of an open-source project, to produce a requirements specification that unambiguously captures stakeholder needs, and to write a research paper that survives peer review are skills that are as practically important as algorithmic knowledge for the majority of CS career paths.
+The writing workshop format of WRIT310 — in which students write, receive detailed feedback, and revise, in every week of the course — reflects the research consensus that writing ability develops through practice and feedback, not through instruction alone. Students who come to WRIT310 with weak writing skills and commit fully to the revision process consistently leave with dramatically improved writing. Students who already write well discover that the specific conventions and demands of technical writing require careful study and practice even for skilled general writers. In both cases, the investment in WRIT310 pays sustained dividends across the remainder of the CS program and throughout students' professional careers.
+The emphasis on writing for non-technical audiences in WRIT310 deserves special attention. In most organizational contexts, the people who make decisions about technology — which projects to fund, which products to build, which regulations to enact — are not themselves technical specialists. An engineer who can only communicate with other engineers is professionally limited in ways that an engineer who can explain technical constraints and opportunities to executives, policymakers, investors, and the general public is not. WRIT310 develops this cross-register communication ability through the executive summary and technical blog post assignments, which require students to translate technical content for audiences with very different backgrounds and expectations. This is difficult, humbling, and enormously valuable work.
+
+
+
+
+
+

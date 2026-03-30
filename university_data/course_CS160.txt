@@ -1,0 +1,66 @@
+GLOBAL TECH UNIVERSITY — COURSE SYLLABUS
+CS160: INTRODUCTION TO SOFTWARE ENGINEERING
+Credits: 3 | Lecture: 3 hours/week
+Department: Computer Science and Engineering
+Prerequisites: CS102 (minimum grade C)
+
+
+COURSE DESCRIPTION
+
+CS160: Introduction to Software Engineering transitions students from thinking about individual programs to thinking about software systems — large, complex, collaborative artifacts developed over extended time horizons by teams of people with diverse skills and perspectives. Programming, as taught in CS101 and CS102, is a craft practiced largely in isolation: one programmer, one problem, one solution. Software engineering is a discipline for building reliable, maintainable, scalable systems collaboratively — and this distinction, between programming and software engineering, is one of the most important conceptual transitions in a CS student's development.
+
+The course covers the software development lifecycle in its major phases: requirements elicitation and specification, system design and architecture, implementation practices (version control, code style, documentation), testing and quality assurance, and maintenance and evolution. Students work in teams of four to five throughout the course, simulating a real software development environment using industry-standard tools: Git for version control, GitHub for collaboration and code review, Jira for project management, and standard IDEs for development.
+
+The course introduces three major development methodologies — Waterfall, Agile (Scrum), and DevOps — and examines their trade-offs in different project contexts. Students will apply Agile/Scrum methodology to their team project, experiencing sprints, retrospectives, and user story refinement firsthand. By the end of CS160, students will have participated in a complete software project lifecycle from requirements to delivery, gaining the professional skills that technical courses alone do not provide.
+
+LEARNING OBJECTIVES
+
+Distinguish software engineering from programming and explain the challenges of large-scale software development.
+Elicit, analyze, and specify software requirements using use cases, user stories, and UML use case diagrams.
+Apply Waterfall, Agile (Scrum), and DevOps methodologies and evaluate their suitability for different project contexts.
+Design system architectures using common patterns (layered, client-server, MVC, microservices) and document them with UML class and sequence diagrams.
+Apply SOLID principles of object-oriented design to produce flexible, maintainable class designs.
+Use Git and GitHub for version control, branching, merging, and collaborative code development.
+Write unit tests using a testing framework (JUnit or pytest) and achieve measurable code coverage.
+Apply black-box and white-box testing strategies to design comprehensive test suites.
+Conduct code reviews, providing and receiving constructive feedback on code quality.
+Write and maintain project documentation including README files, API documentation, and user manuals.
+Manage a software project using a backlog, sprint planning, velocity tracking, and a burn-down chart.
+Identify and apply common software design patterns (singleton, factory, observer, strategy, decorator).
+Reason about software quality attributes: reliability, maintainability, scalability, security, and usability.
+Reflect on team dynamics, communication challenges, and conflict resolution in software development teams.
+Demonstrate professional communication skills in written project documentation and oral project presentations.
+
+WEEKLY COURSE BREAKDOWN
+
+Week 1: Introduction — Software Engineering vs. Programming; The Software Crisis
+Week 2: Software Development Lifecycles — Waterfall, Agile, DevOps
+Week 3: Requirements Engineering — Elicitation, User Stories, Use Cases
+Week 4: UML — Class Diagrams, Sequence Diagrams, Use Case Diagrams
+Week 5: Software Architecture — Patterns and Design Decisions; Team Project Kickoff
+Week 6: Object-Oriented Design — SOLID Principles and Design Patterns I
+Week 7: Design Patterns II (Observer, Strategy, Decorator, Facade)
+Week 8: Midterm Examination; Version Control with Git — Advanced Topics (Branching, Merging, Rebasing)
+Week 9: Software Testing I — Unit Testing, Test-Driven Development (TDD)
+Week 10: Software Testing II — Integration, System, and Acceptance Testing; Code Coverage
+Week 11: Code Quality — Code Reviews, Refactoring, Technical Debt
+Week 12: Project Management — Agile Sprints, Velocity, Burn-Down Charts, Risk Management
+Week 13: Software Maintenance, Evolution, and Legacy Systems
+Week 14: DevOps — Continuous Integration, Continuous Delivery, Containerization (Docker introduction)
+Week 15: Team Project Final Presentations and Demonstrations; Course Retrospective
+
+ACADEMIC CONTEXT
+
+CS160 addresses a gap that is widely recognized in CS education: the disconnect between the skills developed in coursework and the skills required in professional software development. Studies of new software engineering graduates consistently find that employers rate communication, collaboration, testing discipline, and version control proficiency as more immediately critical than knowledge of advanced algorithms or machine learning — skills that take time to develop in the specific context of the employer's systems. CS160 is designed to give GTU students a genuine head start on these professional competencies.
+
+The Agile methodology that students practice in CS160 is not merely a project management tool — it embeds a set of values about software development: individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, and responding to change over following a plan. These values, articulated in the Agile Manifesto of 2001, represent a significant shift from the plan-driven, document-heavy approaches that dominated software engineering in the 1970s and 1980s. Students who internalize the Agile mindset through actual practice — through the experience of breaking requirements into user stories, committing to sprint goals, retrospecting on what went well and what didn't, and adapting their plan based on what they learned — carry a professional maturity into the workplace that classroom lectures alone cannot convey.
+
+The design patterns introduced in Weeks 6 and 7 are among the most practically valuable intellectual tools in the CS curriculum. First formalized by the Gang of Four (Gamma, Helm, Johnson, and Vlissides) in their seminal 1994 book "Design Patterns: Elements of Reusable Object-Oriented Software," these patterns are named, documented solutions to recurring design problems in object-oriented software. A developer who knows the Observer pattern can recognize it when they encounter it in a codebase they've never seen before, can implement it correctly from a description, and can explain its trade-offs to a colleague. This shared vocabulary is the basis of productive professional communication between software engineers, and CS160 is where students acquire it.
+
+The team project, which runs the length of the semester, is the experiential core of CS160. Working in a team of four or five students on a real software project — with real deadlines, real inter-dependencies, and real interpersonal dynamics — is an experience that no amount of individual programming exercises can replicate. Students encounter, and learn to navigate, the challenges of unequal contribution, conflicting visions, communication failures, and technical integration difficulties. These are the challenges that define the experience of professional software development, and students who encounter them in the supported, lower-stakes environment of CS160 are far better prepared for them when they arise in internships, co-ops, and entry-level positions.
+
+
+
+
+
+

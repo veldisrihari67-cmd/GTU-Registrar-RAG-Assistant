@@ -1,0 +1,67 @@
+GLOBAL TECH UNIVERSITY — COURSE SYLLABUS
+CS310: DEEP LEARNING
+Credits: 3 | Lecture: 3 hours/week
+Department: Computer Science and Engineering
+Prerequisites: CS305 (minimum grade C)
+
+COURSE DESCRIPTION
+
+CS310: Deep Learning is an upper-division elective that provides an advanced, mathematically rigorous treatment of deep neural networks — the technology that has driven the artificial intelligence revolution of the past decade. Building directly on the neural network foundations of CS305, this course goes substantially deeper into the theory, architecture design, training methodology, and application of deep learning systems. Students who complete CS310 will be prepared to conduct independent deep learning research, contribute to production machine learning systems, and engage with the rapidly evolving frontier of the field.
+
+The course covers advanced neural network architectures in depth: convolutional neural networks (CNNs) for computer vision, recurrent neural networks (RNNs), Long Short-Term Memory (LSTM) networks, and Gated Recurrent Units (GRUs) for sequence modeling, the Transformer architecture and self-attention mechanism (the foundation of modern language models), and generative models including Variational Autoencoders (VAEs) and Generative Adversarial Networks (GANs). Students will also study the engineering of deep learning systems: distributed training, mixed-precision arithmetic, model compression (pruning, quantization, knowledge distillation), and deployment optimization. The course makes extensive use of PyTorch, which is the dominant research framework in the field.
+
+A significant course project requires students to design, implement, train, and evaluate an original deep learning system on a problem of their choosing, and to write a paper in the style of a machine learning conference submission documenting their work.
+
+LEARNING OBJECTIVES
+
+Derive and implement backpropagation for arbitrary computation graphs using automatic differentiation principles.
+Design and train deep convolutional neural networks for image classification, object detection, and semantic segmentation tasks.
+Explain and apply transfer learning and fine-tuning strategies using pre-trained CNN architectures (ResNet, EfficientNet, ViT).
+Design and train recurrent sequence models (RNN, LSTM, GRU) for time-series prediction and sequence-to-sequence tasks.
+Derive the self-attention mechanism from first principles and explain how the Transformer architecture overcomes RNN limitations.
+Explain the architecture of BERT and GPT-style language models and describe their pre-training objectives.
+Implement and train a Variational Autoencoder (VAE) and explain the ELBO objective and the reparameterization trick.
+Implement and train a Generative Adversarial Network (GAN) and explain the min-max training objective, mode collapse, and training instability.
+Apply techniques for stabilizing and accelerating deep learning training: batch normalization, layer normalization, dropout, gradient clipping, learning rate scheduling, warm-up.
+Apply data augmentation strategies appropriate to image, text, and time-series data.
+Explain distributed training strategies: data parallelism and model parallelism, and their implementation in PyTorch DDP.
+Apply model compression techniques (pruning, quantization, knowledge distillation) and evaluate their accuracy-efficiency trade-offs.
+Implement model interpretability techniques: gradient-weighted class activation maps (Grad-CAM), integrated gradients, and attention visualization.
+Critically read and reproduce results from deep learning research papers.
+Design, implement, and evaluate an original deep learning project and communicate results in a written report of conference paper quality.
+
+WEEKLY COURSE BREAKDOWN
+
+Week 1: Deep Learning Landscape — Review of CS305, PyTorch Ecosystem, and GPU Computing
+Week 2: Automatic Differentiation and Custom Backpropagation in PyTorch
+Week 3: CNNs in Depth — Modern Architectures (ResNet, DenseNet, EfficientNet)
+Week 4: Object Detection and Semantic Segmentation — YOLO, Faster R-CNN, U-Net
+Week 5: Transfer Learning and Fine-Tuning — Strategies and Applications
+Week 6: Sequence Models — RNNs, LSTMs, GRUs, and Bidirectional Variants
+Week 7: The Attention Mechanism and the Transformer Architecture
+Week 8: Midterm Examination; Large Language Models — BERT, GPT, and Pre-training Objectives
+Week 9: Generative Models I — Variational Autoencoders (VAEs)
+Week 10: Generative Models II — Generative Adversarial Networks (GANs) and Diffusion Models (Introduction)
+Week 11: Training Stability and Optimization — Batch Norm, Dropout, Advanced Optimizers, Learning Rate Schedules
+Week 12: Distributed Training and Mixed-Precision Training
+Week 13: Model Compression — Pruning, Quantization, Knowledge Distillation
+Week 14: Interpretability, Fairness, and Ethical Implications of Deep Learning Systems
+Week 15: Research Paper Presentations and Course Synthesis
+
+ACADEMIC CONTEXT
+
+CS310 is offered as an upper-division elective within Track A (Artificial Intelligence and Machine Learning) of the CS major, and it represents the highest level of ML technical depth available in the undergraduate curriculum at GTU. The single prerequisite — CS305, Machine Learning — is strict and non-negotiable, because CS310 assumes complete fluency with the content of CS305, including backpropagation, regularization theory, and the fundamentals of neural network training. Students who attempt CS310 without this foundation find the pace and mathematical demands overwhelming.
+
+The Transformer architecture, introduced in Week 7, is arguably the most consequential technical development in artificial intelligence since the invention of backpropagation. First described in the 2017 paper "Attention is All You Need" by Vaswani and colleagues at Google, the Transformer replaced recurrent architectures with a purely attention-based mechanism that is parallelizable, captures long-range dependencies effectively, and scales with data and compute in ways that have proven extraordinary. The large language models that have transformed public understanding of AI — GPT-3, GPT-4, Claude, Gemini — are all Transformer-based. Students who understand the Transformer at the level of the attention mechanism derivation, the multi-head attention formulation, and the positional encoding scheme are equipped to engage with the cutting edge of AI research in a way that students who know only that "Transformers are good at language" are not.
+
+The ethics and interpretability content of Week 14 is placed at the end of the course deliberately — after students have built the technical knowledge needed to engage with these issues at a substantive level. The interpretability methods studied (Grad-CAM, integrated gradients, attention visualization) are tools for understanding why a deep learning model makes a particular prediction, which is essential for deploying these models in high-stakes domains (medical diagnosis, criminal justice, autonomous driving) where decisions must be explainable and auditable. The fairness discussion builds on the CS305 treatment with deep-learning-specific examples, including the documented biases of face recognition systems that perform dramatically worse on darker-skinned faces, and the amplification of biases in training data by large-scale language models.
+
+
+
+
+
+
+
+
+
+

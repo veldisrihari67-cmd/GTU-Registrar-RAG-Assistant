@@ -1,0 +1,110 @@
+GLOBAL TECH UNIVERSITY (GTU)
+BACHELOR OF SCIENCE IN DATA SCIENCE
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
+JOINT PROGRAM WITH THE DEPARTMENT OF MATHEMATICS AND STATISTICS
+FULL DEGREE REQUIREMENTS — ACADEMIC YEAR 2025–2026
+
+SECTION 1: PROGRAM OVERVIEW
+
+The Bachelor of Science in Data Science (B.S. DS) at Global Tech University is an interdisciplinary program at the intersection of computer science, mathematics, statistics, and domain-specific knowledge. Designed for students who wish to extract meaning from large, complex datasets and build predictive models that drive real-world decisions, the Data Science major integrates quantitative rigor with computational power and communicative clarity.
+Data Science graduates from GTU are equipped to work in industries ranging from healthcare and finance to environmental science and public policy. The program emphasizes not only technical proficiency in statistical modeling, machine learning, and data engineering, but also the development of critical thinking skills necessary to interpret results responsibly, communicate findings to diverse audiences, and navigate the ethical complexities of data-driven decision making.
+The program is jointly administered by the Department of Computer Science and Engineering and the Department of Mathematics and Statistics, ensuring that students receive balanced training in both computational and mathematical domains. A capstone research project in the final year allows students to apply their integrated skill set to a substantial, original data science challenge.
+
+SECTION 2: PROGRAM LEARNING OUTCOMES
+
+Upon successful completion of the B.S. in Data Science, graduates will be able to:
+
+Collect, clean, integrate, and manage large-scale datasets from diverse sources.
+Apply statistical inference, hypothesis testing, and probabilistic modeling to real-world data problems.
+Design, implement, and evaluate machine learning and deep learning models.
+Use programming languages (Python, R, SQL) and data tools proficiently for analysis and visualization.
+Communicate analytical findings through clear visualizations, reports, and presentations to technical and non-technical audiences.
+Reason about the ethical, legal, and societal implications of data collection and algorithmic decision-making.
+Apply domain knowledge from at least one application area (e.g., healthcare, business, environment).
+Conduct independent data science research, including literature review, methodology design, and results interpretation.
+Collaborate in interdisciplinary teams on complex data projects.
+Demonstrate readiness for graduate study or professional practice in data science or related fields.
+
+SECTION 3: DEGREE REQUIREMENTS SUMMARY
+
+Total Credit Hours Required: 120
+Breakdown:
+
+GTU Core Curriculum Requirements: 30 credits
+Data Science Major Core: 48 credits
+Mathematics and Statistics Requirements: 21 credits
+Domain Concentration Electives: 9 credits
+Free Electives: 12 credits
+
+SECTION 4: GTU CORE CURRICULUM (30 CREDITS)
+
+(See program_cs_major.txt for Core Curriculum course listings; requirements are identical. DS majors must complete HUMS201 and PHIL210 as part of their Core.)
+
+SECTION 5: MATHEMATICS AND STATISTICS REQUIREMENTS (21 CREDITS)
+
+MATH110: Calculus I (4 credits)
+MATH111: Calculus II (4 credits) — Prereq: MATH110
+MATH220: Discrete Mathematics (3 credits) — Prereq: MATH110
+MATH230: Linear Algebra (3 credits) — Prereq: MATH110
+STAT200: Probability and Statistics (4 credits) — Prereq: MATH110
+STAT310: Statistical Inference (3 credits) — Prereq: STAT200
+STAT320: Applied Regression Analysis (3 credits) — Prereq: STAT310 (note: 21 credits total with MATH111 through STAT320; MATH111 and MATH220 contribute 7 credits, MATH230 contributes 3, STAT200 through STAT320 contribute 10 credits, and MATH110 contributes 4 credits — see advisor for credit allocation details)
+
+Note: DS majors take one additional Statistics course compared to CS majors, reflecting the heavier quantitative modeling emphasis of the program.
+
+SECTION 6: DATA SCIENCE MAJOR CORE (48 CREDITS)
+
+Computing Foundations (12 credits):
+
+CS101: Introduction to Programming (3 credits) — No prerequisites
+CS102: Data Structures (3 credits) — Prereq: CS101 with grade C+ or higher
+CS201: Algorithms (3 credits) — Prereq: CS102 AND MATH110
+DS150: Introduction to Data Science (3 credits) — Prereq: CS101 AND STAT200
+
+Data Engineering and Management (9 credits):
+
+DS210: Data Wrangling and Visualization (3 credits) — Prereq: DS150
+DS220: Database Systems for Data Science (3 credits) — Prereq: CS201
+DS230: Big Data Infrastructure (3 credits) — Prereq: DS220
+
+Statistical and Machine Learning Core (15 credits):
+
+DS301: Machine Learning I (3 credits) — Prereq: CS201 AND STAT200 AND MATH230
+DS302: Machine Learning II: Deep Learning (3 credits) — Prereq: DS301
+DS310: Statistical Computing (3 credits) — Prereq: STAT310
+DS315: Natural Language Processing (3 credits) — Prereq: DS301
+DS320: Data Ethics and Fairness (3 credits) — Prereq: DS301 AND PHIL210
+
+Capstone and Research (12 credits):
+
+DS390: Research Methods in Data Science (3 credits) — Prereq: DS301 AND STAT310; must be completed in junior year
+DS401: Data Science Capstone I (3 credits) — Prereq: DS390 AND 90+ credits
+DS402: Data Science Capstone II (3 credits) — Prereq: DS401 (taken in final semester)
+DS410: Data Science Seminar (3 credits) — Co-req: DS401; graded P/NP
+
+SECTION 7: DOMAIN CONCENTRATION ELECTIVES (9 CREDITS)
+
+Data Science students must complete three courses (9 credits) from one of the following domain concentration tracks, reflecting a real-world application area:
+Track A — Health and Biomedical Informatics:
+BIO250: Biostatistics, BIO310: Genomic Data Analysis, HIMS301: Health Informatics Systems
+Track B — Business and Financial Analytics:
+ECON210: Econometrics, BUSN310: Business Intelligence, FIN320: Financial Data Analytics
+Track C — Environmental and Geospatial Data Science:
+ENV201: Environmental Modeling, GEO310: Geographic Information Systems, ENV320: Climate Data Analytics
+Track D — Social and Policy Data Science:
+POLS310: Computational Politics, SOCI320: Social Network Analysis, PUBL301: Policy Analytics
+
+SECTION 8: RECOMMENDED FOUR-YEAR PLAN
+
+Year 1, Fall: CS101, MATH110, STAT200 (first half content), ENG101, PHYS101 (15 credits)
+Year 1, Spring: CS102, DS150, MATH111, ENG102, Social Science Elective (15 credits)
+Year 2, Fall: CS201, DS210, MATH220, MATH230, HUMS201 (15 credits)
+Year 2, Spring: DS220, STAT200 (complete), STAT310, Domain Elective I, PHIL210 (15 credits)
+Year 3, Fall: DS301, DS310, DS230, DS390, Domain Elective II (15 credits)
+Year 3, Spring: DS302, DS315, DS320, STAT320, Domain Elective III (15 credits)
+Year 4, Fall: DS401, DS410, Free Elective I, Free Elective II, Global Perspectives (15 credits)
+Year 4, Spring: DS402, Free Elective III, Free Elective IV, Remaining Core/Electives (15 credits)
+
+SECTION 9: DISTINCTION FROM CS MAJOR
+
+While the B.S. CS and B.S. DS programs share foundational courses in programming and algorithms, they diverge significantly at the upper-division level. CS majors receive deeper training in systems programming, theory of computation, and software engineering. DS majors receive deeper training in statistical inference, data engineering, machine learning, and domain-specific applications. A student interested in both fields should consult with advisors from both departments about the possibility of pursuing a dual degree or a CS major with a Data Science minor.

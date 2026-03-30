@@ -1,0 +1,56 @@
+GLOBAL TECH UNIVERSITY — COURSE SYLLABUS
+CS250: PROGRAMMING LANGUAGES
+Credits: 3 | Lecture: 3 hours/week
+Department: Computer Science and Engineering
+Prerequisites: CS201 (minimum grade C)
+
+
+COURSE DESCRIPTION
+
+CS250: Programming Languages examines the design, semantics, and implementation of programming languages — the tools that mediate between human thought and machine computation. By studying programming languages as designed artifacts with principled choices and trade-offs, students develop a deeper understanding of the languages they already know, the ability to quickly learn new languages, and the judgment to select the right language for a given task. The course also provides foundational knowledge for students interested in compilers, formal methods, type systems, and programming language research.
+
+The course is organized into three major components. The first is programming language concepts and paradigms: students study the major paradigms — imperative, object-oriented, functional, logic-based, and concurrent — and implement substantial programs in each, using languages such as Racket (functional), Prolog (logic), Haskell (purely functional), and Go (concurrent). The second is language implementation: students study lexical analysis, parsing, abstract syntax trees, semantic analysis, and interpretation, and implement a small interpreter for a toy language. The third is formal semantics: students are introduced to operational semantics and type theory at an accessible level.
+
+LEARNING OBJECTIVES
+
+Identify and describe the major programming paradigms: imperative, object-oriented, functional, logic, and concurrent.
+Write programs in a purely functional language (Haskell or Racket) using recursion, higher-order functions, lazy evaluation, and monads.
+Write programs in a logic programming language (Prolog) using facts, rules, and unification.
+Explain and apply key language design concepts: syntax vs. semantics, static vs. dynamic typing, strong vs. weak typing, lexical vs. dynamic scoping.
+Describe and compare parameter passing mechanisms: pass-by-value, pass-by-reference, pass-by-name.
+Implement lexical analysis using regular expressions and finite automata.
+Implement parsing using context-free grammars (CFGs), parse trees, and recursive descent parsing.
+Define and implement a small interpreter for a Turing-complete toy language.
+Read and write simple operational semantics rules (big-step and small-step).
+Explain the Hindley-Milner type inference algorithm at a conceptual level.
+Describe and apply memory management strategies: stack allocation, heap allocation, garbage collection (mark-sweep, reference counting).
+Explain concurrency models: shared-memory with locks, message-passing (actors/CSP), software transactional memory.
+Write concurrent programs in Go using goroutines and channels.
+Evaluate trade-offs in language design decisions (e.g., expressiveness vs. safety, performance vs. abstraction).
+Read and critically analyze academic papers on programming language design.
+
+WEEKLY COURSE BREAKDOWN
+
+Week 1: Introduction — What Is a Programming Language? History and Taxonomy
+Week 2: Syntax — Grammars, Parsing, and Abstract Syntax Trees
+Week 3: Lexical Analysis — Regular Expressions and Finite Automata
+Week 4: Semantics — Operational Semantics (Big-Step and Small-Step)
+Week 5: Functional Programming I — Racket: Recursion, Higher-Order Functions, Closures
+Week 6: Functional Programming II — Haskell: Type Classes, Lazy Evaluation, Monads
+Week 7: Logic Programming — Prolog: Facts, Rules, Backtracking, Unification
+Week 8: Midterm Examination; Type Systems — Static vs. Dynamic, Strong vs. Weak, Type Inference
+Week 9: Object-Oriented Language Design — Inheritance, Polymorphism, and Dispatch
+Week 10: Memory Management — Stack, Heap, Garbage Collection Strategies
+Week 11: Concurrent Programming — Shared Memory, Locks, and Go (Goroutines and Channels)
+Week 12: Interpreters — Implementation of a Full Interpreter for a Toy Language
+Week 13: Compilers — Overview of Compilation Phases (Scanning, Parsing, Code Generation)
+Week 14: Domain-Specific Languages and Language Trends (Rust, TypeScript, WebAssembly)
+Week 15: Language Design Trade-off Debates and Course Synthesis; Final Examination
+
+ACADEMIC CONTEXT
+
+CS250 is one of the most intellectually broadening courses in the CS curriculum, precisely because it forces students to encounter programming from radically different perspectives than the imperative, object-oriented approach they have practiced since CS101. Writing a program in Haskell — where functions are pure (no side effects), data is immutable by default, and the type system prevents entire categories of runtime errors through static analysis — is a genuinely disorienting experience for students who have thought of programs as sequences of state-modifying instructions. This disorientation is productive. Students return to Python or Java afterward with a richer conceptual vocabulary: they understand what a monad is and why it matters, they understand what referential transparency means and why it enables certain kinds of reasoning and optimization, and they understand why functional programming patterns like map, filter, and reduce (which they now use casually in Python) have the properties they have.
+
+The interpreter implementation project — building a working interpreter for a small but Turing-complete language — is one of the most technically challenging and intellectually rewarding projects in the entire CS curriculum. Students who complete this project have, in a very real sense, built a programming language. They understand what the lexer does, what the parser does, what an abstract syntax tree represents, what the evaluation function does when it encounters a lambda expression, and what the environment is and why it must be threaded through the evaluation process. This understanding transforms their relationship to the programming languages they use daily. They no longer experience Python or Java as mysterious black boxes; they understand, at a structural level, what happens when their code is executed.
+
+The type theory content of CS250 — Hindley-Milner type inference, operational semantics — provides an accessible entry point to the kind of formal reasoning that is central to programming language research and formal verification. Students who find this content compelling are encouraged to explore GTU's upper-division offering in Formal Methods and to consider graduate programs in programming languages, compilers, or formal verification. The field is less visible than AI or systems to most undergraduates, but it is one of the most intellectually rich areas of computer science, with profound implications for software reliability and security.

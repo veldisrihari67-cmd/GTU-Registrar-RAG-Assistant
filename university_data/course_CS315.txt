@@ -1,0 +1,59 @@
+GLOBAL TECH UNIVERSITY — COURSE SYLLABUS
+CS315: NATURAL LANGUAGE PROCESSING
+Credits: 3 | Lecture: 3 hours/week
+Department: Computer Science and Engineering
+Prerequisites: CS305 (minimum grade C)
+
+
+COURSE DESCRIPTION
+
+CS315: Natural Language Processing (NLP) is an upper-division elective in the AI and Machine Learning track that examines the computational methods used to process, understand, and generate human language. Language is the most distinctively human of cognitive capacities, and the ability to build systems that process language with human-like fluency is one of the most exciting and consequential frontiers of artificial intelligence. NLP applications are pervasive in modern technology: search engines, virtual assistants, machine translation, sentiment analysis, text summarization, question answering, and large language models like GPT-4 are all NLP systems.
+
+The course is organized into three units. Unit 1 covers classical NLP: tokenization, part-of-speech tagging, syntactic parsing (context-free grammars, dependency parsing), named entity recognition, and information extraction. Unit 2 covers statistical and neural NLP: language models (n-gram models, neural language models), word embeddings (Word2Vec, GloVe, fastText), and text classification (naive Bayes, logistic regression, convolutional and recurrent neural network classifiers). Unit 3 covers the Transformer revolution: the Transformer architecture (introduced in CS310 and now applied specifically to NLP), BERT (bidirectional pre-training), GPT-style autoregressive models, fine-tuning and prompt engineering, and a critical examination of what large language models can and cannot do. Students will implement NLP pipelines in Python using NLTK, spaCy, and the Hugging Face Transformers library.
+
+LEARNING OBJECTIVES
+
+Implement text preprocessing pipelines: tokenization, stop word removal, stemming, lemmatization, and sentence segmentation.
+Apply part-of-speech tagging and named entity recognition using rule-based and statistical approaches.
+Parse sentences using context-free grammars (CYK algorithm) and dependency parsing algorithms.
+Build and evaluate n-gram language models, applying smoothing techniques (Laplace, Kneser-Ney).
+Implement and interpret Word2Vec (skip-gram and CBOW) and explain the distributional hypothesis of word meaning.
+Apply text classification methods: naive Bayes, logistic regression, and neural network classifiers (CNN, RNN, LSTM over word embeddings).
+Explain the attention mechanism and the Transformer architecture as applied to NLP tasks.
+Fine-tune a pre-trained BERT model for text classification, named entity recognition, and question answering tasks.
+Apply GPT-style generation and prompt engineering techniques to language generation tasks.
+Evaluate NLP systems using standard metrics: accuracy, F1, BLEU (for machine translation), ROUGE (for summarization).
+Implement a machine translation pipeline using sequence-to-sequence models with attention.
+Apply NLP tools using the Hugging Face Transformers library for state-of-the-art models.
+Critically evaluate claims about language model capabilities, including their limitations in reasoning, factuality, and bias.
+Discuss ethical issues specific to NLP: language model bias, misinformation generation, surveillance applications, and the homogenization of language.
+Implement and analyze an end-to-end NLP project on a real-world text dataset.
+
+WEEKLY COURSE BREAKDOWN
+
+Week 1: Introduction to NLP — What Is Language? The NLP Pipeline; Text Preprocessing
+Week 2: Classical NLP — POS Tagging, Named Entity Recognition, Chunking
+Week 3: Syntactic Parsing — Context-Free Grammars, CYK, Dependency Parsing
+Week 4: Language Models I — N-gram Models, Perplexity, Smoothing
+Week 5: Word Embeddings — Word2Vec, GloVe, fastText; the Distributional Hypothesis
+Week 6: Text Classification — Naive Bayes, Logistic Regression, Evaluation Metrics
+Week 7: Neural Text Classification — CNN and RNN Classifiers; Sequence Labeling
+Week 8: Midterm Examination; Sequence-to-Sequence Models and Attention for Machine Translation
+Week 9: The Transformer for NLP — Self-Attention, Multi-Head Attention, Positional Encoding
+Week 10: BERT — Pre-training Objectives, Fine-tuning, and Applications
+Week 11: GPT and Autoregressive Language Models — Architecture, Pre-training, and Generation
+Week 12: Prompt Engineering and In-Context Learning — Zero-Shot, Few-Shot, Chain-of-Thought
+Week 13: NLP Applications — Sentiment Analysis, Question Answering, Text Summarization, Information Extraction
+Week 14: Ethics in NLP — Bias, Misinformation, Privacy, and the Societal Impact of LLMs
+Week 15: Frontier Topics — Multimodal Models, Code LLMs, Agent Frameworks; Final Project Presentations
+
+ACADEMIC CONTEXT
+
+CS315 sits at the intersection of computer science, linguistics, and cognitive science, and its intellectual breadth is part of its appeal. Language is not merely a sequence of tokens to be processed — it is the medium in which human thought, culture, and social life are conducted, and the attempt to formalize and automate language understanding forces confrontation with the deepest questions about the nature of meaning, reference, and communication. Students who engage seriously with NLP inevitably encounter the tension between the statistical success of modern language models and the philosophical incompleteness of any account of language that reduces meaning to pattern matching over text corpora.
+
+The rapid development of large language models in recent years has made NLP simultaneously the most exciting and the most rapidly changing area of applied AI. The course material is updated every semester to reflect the current state of the art, and the Hugging Face Transformers library used in the course provides access to hundreds of pre-trained models that represent billions of dollars of computational investment — available to GTU students at the cost of a few API calls. This democratization of access to state-of-the-art NLP is extraordinary and creates both opportunities and responsibilities that the ethics content of Week 14 addresses directly.
+
+The critical dimension of CS315 — the sustained examination of what LLMs cannot do, as well as what they can — is essential in a period when popular discourse about language model capabilities oscillates between uncritical hype and reflexive dismissal. Students who complete CS315 with a clear-eyed understanding of the failure modes of current language models — their tendency to hallucinate facts confidently, their sensitivity to prompt phrasing, their inconsistency across paraphrased inputs, their poor calibration between stated confidence and actual accuracy — are equipped to deploy these systems responsibly and to advocate for appropriate constraints on their use in high-stakes domains.
+
+
+
